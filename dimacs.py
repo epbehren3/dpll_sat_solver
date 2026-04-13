@@ -9,7 +9,7 @@
 #this tells us that the cnf is (x1 + x3') and (x2 + x3 + x1')
 
 def dimacInput(path):
-    numLiterals = numClauses = 0
+    num_Variables = num_Clauses = 0
     clauses = []
     with open(path) as fo: 
         for line in fo:
@@ -25,8 +25,8 @@ def dimacInput(path):
 
                 #splitting at the white space between numLiterals and numClauses
                 parts = line.split() 
-                numLiterals = int(parts[2]) 
-                numClauses = int(parts[3]) 
+                num_Variables = int(parts[2]) 
+                num_Clauses = int(parts[3]) 
                 continue
 
             parts = list(map(int, line.split()))
@@ -36,12 +36,5 @@ def dimacInput(path):
 
     #function returns the number of literals in the cnf formula
     #and the clauses in the function as a list
-    return numLiterals, clauses
+    return num_Variables, clauses
 
-# def main():
-#     numLiterals, clauses = dimacInput("test.txt")
-#     print(numLiterals)
-#     print(clauses)
-
-# if __name__ == "__main__":
-#     main()
