@@ -26,7 +26,7 @@ def watched_literals(clause, assignment):
     return watched
 
 #Updates Assignment based on watched literals. 
-def watched_bcp(clauses, assignment):
+def watched_bcp(clauses, assignment: dict):
   
     new_assignment = assignment.copy()
     #Loop through continuously until there are no more changes to the assignment.
