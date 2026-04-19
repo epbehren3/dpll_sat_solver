@@ -14,7 +14,7 @@ def dpll(clauses, assignment):
     new_assignment = chaff.watched_bcp(clauses, assignment)
 
     if new_assignment is None:
-        #If conflict, backtrack and try a different assignment. 
+        #If conflict, backtrack  
         return False
 
     #Look for conflicts
@@ -39,7 +39,7 @@ def dpll(clauses, assignment):
     if dpll(clauses, new_assignment):
         return True
 
-    #If neither branch leads to a solution, we backtrack and try a different assignment. 
+    #If neither branch leads to a solution, we backtrack.
     return False
 
 
