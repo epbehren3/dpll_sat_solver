@@ -9,7 +9,7 @@ import chaff
 import dlis
 
 
-def dpll(clauses, assignment):
+def dpll(clauses, assignment,metrics: simpleMetrics):
     #First we run BCP to propagate the consequences of our current assignment. 
     new_assignment = chaff.watched_bcp(clauses, assignment)
 
