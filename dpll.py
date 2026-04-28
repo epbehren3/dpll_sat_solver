@@ -7,10 +7,12 @@
 #  
 import chaff 
 import dlis
-import grabMetrics
+
+#Will add more later, for now just need to track metrics.
+#import grabMetrics
 
 
-def dpll(clauses, assignment,metrics: grabMetrics):
+def dpll(clauses, assignment):
     
     
     #First we run BCP to propagate the consequences of our current assignment. 
