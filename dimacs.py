@@ -7,9 +7,8 @@
 #1 -3 8 0 (clause 1, ending w/ a trailing 0)
 #2 3 -1 0 (clause 2, ending w/ a trailing 0)
 #this tells us that the cnf is (x1 + x3') and (x2 + x3 + x1')
-
-def dimacInput(path):
-    num_Variables = num_Clauses = 0
+def dimacs(path):
+    num_var = num_clauses = 0
     clauses = []
     with open(path) as fo: 
         for line in fo:
@@ -23,10 +22,10 @@ def dimacInput(path):
             #if it starts with p, yesssssssssss
             if line.startswith('p'):
 
-                #splitting at the white space between numLiterals and numClauses
+                #splitting at the white space between num_var and num_clauses
                 parts = line.split() 
-                num_Variables = int(parts[2]) 
-                num_Clauses = int(parts[3]) 
+                num_var = int(parts[2]) 
+                num_clauses = int(parts[3]) 
                 continue
 
             parts = list(map(int, line.split()))
@@ -36,5 +35,6 @@ def dimacInput(path):
 
     #function returns the number of literals in the cnf formula
     #and the clauses in the function as a list
-    return num_Variables, clauses
+    print(num_var, num_clauses)
+    return num_var, clauses
 

@@ -7,9 +7,10 @@
 #  
 import chaff 
 import dlis
+import grabMetrics
 
 
-def dpll(clauses, assignment,metrics: simpleMetrics):
+def dpll(clauses, assignment,metrics: grabMetrics):
     
     
     #First we run BCP to propagate the consequences of our current assignment. 

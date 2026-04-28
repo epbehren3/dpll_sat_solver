@@ -7,7 +7,7 @@ logpath = ""
 
 
 class simpleMetrics(): 
-    def __init__: 
+    def __init__(): 
         self.wall_time     = 0.0   # real elapsed time
         self.cpu_time      = 0.0   # actual CPU time used
         self.peak_mem_kb   = 0.0
