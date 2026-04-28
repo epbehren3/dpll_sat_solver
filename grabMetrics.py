@@ -2,15 +2,16 @@ import time
 import tracemalloc
 import os 
 
-logpath = "metrics.txt"
+logpath = "logs/metrics.txt"
 
 
 
 class simpleMetrics(): 
+    #Class to grab simple metrics and store them in a log file.
     def __init__(self): 
         self.wall_time     = 0.0   # real elapsed time
         self.cpu_time      = 0.0   # actual CPU time used
-        self.peak_mem_kb   = 0.0  
+        self.peak_mem_kb   = 0.0 
         self.result        = None
 
     def start(self):
@@ -33,3 +34,9 @@ class simpleMetrics():
             f.write(f"CPU Time: {self.cpu_time}\n")
             f.write(f"Peak Memory: {self.peak_mem_kb} KB\n")
             f.write(f"Result: {self.result}\n")
+
+    # def update_logpath(self, path,count):
+    
+    #     path.append(f"metrics_{count}.txt")\
+
+    #     return path

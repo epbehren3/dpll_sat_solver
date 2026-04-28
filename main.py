@@ -15,11 +15,16 @@ def main(argv=None):
     result = False
     metrics.start()
     try:
-        result = dpll(clauses, assignment, metrics)
+        result = dpll(clauses, assignment)
     finally:
         metrics.stop(result)
     print(result)
+
     metrics.report()
 
 if __name__ == "__main__":
     main()
+
+
+
+    

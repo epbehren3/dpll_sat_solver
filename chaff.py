@@ -63,19 +63,20 @@ def watched_bcp(clauses, assignment: dict):
                         return None
                 elif new_assignment.get(watched[0]) is False:
                     #If the first literal becomes false we replace. 
-                    for literal in clause: 
-                        if literal not in watched and new_assignment.get(abs(literal)) is None: 
-                            watched[0] = literal 
-                            break
+                    new_assignment = check_literals(clause, new_assignment, watched)
+      
                 elif new_assignment.get(watched[1]) is False:
                     #If the second literal becomes false we replace. 
-                    for literal in clause: 
-                        if literal not in watched and new_assignment.get(abs(literal)) is None: 
-                            watched[1] = literal 
-                            break
+                    new_assignment = check_literals(clause, new_assignment, watched)
+               
             
-        #If we have made changes to the assignment, we need to check if there are any new unit clauses that have been created.
 
     return new_assignment
 
-
+def check_literals(clause, assignment, watched):
+    new_assignment = assignment.copy()
+    for literal in clause: 
+        if literal not in watched and new_assignment.get(abs(literal)) is None: 
+            watched[1] = literal 
+            break
+    return new_assignment
