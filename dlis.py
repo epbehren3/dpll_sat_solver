@@ -40,8 +40,8 @@ def dlis(clauses, assignment):
             for literal in clause:
                 var = abs(literal)
 
-                #Because we only want to count literals that are unassigned
-                if var not in assignment:
+                # Count literals whose variable is still unassigned (missing or None).
+                if assignment.get(var) is None:
 
                     if literal in counts:
                         counts[literal] +=1

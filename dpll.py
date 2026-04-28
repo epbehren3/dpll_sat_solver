@@ -34,12 +34,12 @@ def dpll(clauses, assignment,metrics: grabMetrics):
 #DFS Logic,  We branch on the chosen literal and go several layers deep. Once we reach a fail, we go back and try the other node. 
     #Branch on the chosen literal being true.
     new_assignment[literal] = True
-    if dpll(clauses, new_assignment):
+    if dpll(clauses, new_assignment, metrics):
         return True
 
     #Branch on the chosen literal being false.
     new_assignment[literal] = False
-    if dpll(clauses, new_assignment):
+    if dpll(clauses, new_assignment, metrics):
         return True
 
     #If neither branch leads to a solution, we backtrack.
