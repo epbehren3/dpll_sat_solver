@@ -13,15 +13,14 @@ def dimacs(path):
     with open(path) as fo: 
         for line in fo:
             line = line.strip()
-            #ignore if it's a new/empty line
-            if not line: 
-                continue
             #ignore the comment lines
-            if line.startswith('c'): 
+            if line.startswith('c') or not line: 
                 continue
+            #% means end of file and break
+            if '%' in line:
+                break
             #if it starts with p, yesssssssssss
             if line.startswith('p'):
-
                 #splitting at the white space between num_var and num_clauses
                 parts = line.split() 
                 num_var = int(parts[2]) 
