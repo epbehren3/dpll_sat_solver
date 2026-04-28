@@ -1,19 +1,25 @@
-import grabMetrics
+from grabMetrics import simpleMetrics
+import sys
 from dimacs import dimacs
 from dpll import dpll
 
-path  = ""
-#path = "test_cases/aim-100-6_0-yes1-1.cnf"
+metrics = simpleMetrics()
 
-def main(): 
-    
-    #Grab Dimacs
+#git webhook test
+def main(argv=None):
+    argv = argv if argv is not None else sys.argv
+    path = argv[1]
     num_var, clauses = dimacs(path)
-    #print(num_var)
-    #Set inital assingments
-    assignment = {i+1: False for i in range(num_var)}
-    #Simply run the DPLL
-    result = dpll(clauses, assignment, grabMetrics)
+    # Unassigned variables must be None for watched_literals / DLIS.
+    assignment = {i + 1: None for i in range(num_var)}
+    result = False
+    metrics.start()
+    try:
+        result = dpll(clauses, assignment, metrics)
+    finally:
+        metrics.stop(result)
+    print(result)
+    metrics.report()
 
 if __name__ == "__main__":
     main()

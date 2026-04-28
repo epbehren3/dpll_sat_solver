@@ -1,20 +1,17 @@
 import time 
 import tracemalloc
+import os 
 
-
-logpath = ""
+logpath = "metrics.txt"
 
 
 
 class simpleMetrics(): 
-    def __init__(): 
+    def __init__(self): 
         self.wall_time     = 0.0   # real elapsed time
         self.cpu_time      = 0.0   # actual CPU time used
-        self.peak_mem_kb   = 0.0
+        self.peak_mem_kb   = 0.0  
         self.result        = None
-        self.backtracks    = 0
-        self.clauses_checked = 0
-        self.vars_assigned = 0
 
     def start(self):
         tracemalloc.start()
@@ -30,5 +27,9 @@ class simpleMetrics():
         self.result      = "SAT" if result else "UNSAT"
 
     def report(self):
-        if logpath: 
-            f = os.open 
+        # Use 'a' mode to append metrics to the log file.
+        with open(logpath, "a") as f:
+            f.write(f"Wall Time: {self.wall_time}\n")
+            f.write(f"CPU Time: {self.cpu_time}\n")
+            f.write(f"Peak Memory: {self.peak_mem_kb} KB\n")
+            f.write(f"Result: {self.result}\n")
