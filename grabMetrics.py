@@ -7,13 +7,13 @@ logpath = "metrics.txt"
 
 
 class simpleMetrics(): 
-    def __init__(self: simpleMetrics): 
+    def __init__(self): 
         self.wall_time     = 0.0   # real elapsed time
         self.cpu_time      = 0.0   # actual CPU time used
         self.peak_mem_kb   = 0.0  
         self.result        = None
 
-    def start(self: simpleMetrics):
+    def start(self):
         tracemalloc.start()
         self._wall_start = time.perf_counter()
         self._cpu_start  = time.process_time()   # CPU time
