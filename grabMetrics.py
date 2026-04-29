@@ -2,7 +2,7 @@ import time
 import tracemalloc
 import os 
 
-logpath = "logs/metrics.txt"
+logpath = "logs/metrics_200_860.txt"
 
 
 
@@ -35,8 +35,3 @@ class simpleMetrics():
             f.write(f"Peak Memory: {self.peak_mem_kb} KB\n")
             f.write(f"Result: {self.result}\n")
 
-    # def update_logpath(self, path,count):
-    
-    #     path.append(f"metrics_{count}.txt")\
-
-    #     return path

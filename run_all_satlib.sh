@@ -12,9 +12,9 @@ else
   PY=python
 fi
 
-mapfile -t files < <(find satlib -type f -name '*.cnf' | sort)
+mapfile -t files < <(find satlib_200_860 -type f -name '*.cnf' | sort)
 if [[ ${#files[@]} -eq 0 ]]; then
-  echo "No .cnf files found under satlib/" >&2
+  echo "No .cnf files found under satlib_200_860/" >&2
   exit 1
 fi
 

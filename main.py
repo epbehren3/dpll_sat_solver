@@ -16,6 +16,9 @@ def main(argv=None):
     metrics.start()
     try:
         result = dpll(clauses, assignment)
+    except Exception as e:
+        print(e)
+        result = False
     finally:
         metrics.stop(result)
     print(result)
