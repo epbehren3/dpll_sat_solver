@@ -21,7 +21,7 @@ def dpll(clauses, assignment):
         return False
 
     #Look for conflicts
-    if all(chaff.watched_literals(clause, new_assignment) == [] for clause in clauses):
+    if all(chaff.clause_satisfied(clause, new_assignment) for clause in clauses):
         return True
 
     #IF there are still unsatisfied clauses we need to call DLIS to pick a literal. 
