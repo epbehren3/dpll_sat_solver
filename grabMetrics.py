@@ -2,8 +2,12 @@ import time
 import tracemalloc
 import os 
 
+# Default when METRICS_LOG_FILE is unset (e.g. `python main.py f.cnf`).
 logpath = "logs/metrics_200_860.txt"
 
+
+def _metrics_output_path() -> str:
+    return os.environ.get("METRICS_LOG_FILE", logpath)
 
 
 class simpleMetrics(): 
@@ -29,7 +33,11 @@ class simpleMetrics():
 
     def report(self):
         # Use 'a' mode to append metrics to the log file.
-        with open(logpath, "a") as f:
+        out = _metrics_output_path()
+        parent = os.path.dirname(out)
+        if parent:
+            os.makedirs(parent, exist_ok=True)
+        with open(out, "a") as f:
             f.write(f"Wall Time: {self.wall_time}\n")
             f.write(f"CPU Time: {self.cpu_time}\n")
             f.write(f"Peak Memory: {self.peak_mem_kb} KB\n")
