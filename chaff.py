@@ -23,6 +23,12 @@ def clause_satisfied(clause, assignment):
         or (literal < 0 and assignment.get(abs(literal)) is False)
         for literal in clause
     )
+def all_clauses_satisfied(clauses, assignment):
+    for clause in clauses: 
+        if not clause_satisfied(clause, assignment):
+            return False
+    return True
+
 
 
 def check_falsified(literal, assignment):
@@ -42,13 +48,19 @@ def watched_literals(clause, assignment):
         var = abs(literal)
         if (literal > 0 and assignment.get(var) is True) or (literal < 0 and assignment.get(var) is False):
             #If the literal is satisfied, we can stop watching this clause.
-            return []
-        if assignment.get(var) is None:
-            watched.append(literal)
-            if len(watched) == 2:
                 break
     return watched
 
+def precompute_watched_literals(clauses, assignment):
+    #Watched literals key to match clause length
+    watched_literals = []
+    master_list = []
+    for clause in clauses: 
+        if(idx, literal in enumerate(clause) and assignment.get(abs(literal)) is None and literal not in watched_literals[len(clause)] and len(watched_literals) < 2):
+            watched_literals[idx].append(literal)
+        master_list.append(watched_literals)
+
+    return master_list
 
 def update_single_watched(new_assignment, watched):
     # IF there is a single watched literal, we update the assignment to satisfy that literal.
@@ -91,7 +103,7 @@ def update_double_watched(new_assignment, clause, watched):
                 changed = True
     return new_assignment, changed
 
-
+        if literal is other_lit:
 def check_literals(clause, assignment, watched, idx_replace):
     new_assignment = assignment.copy()
     other_lit = watched[1 - idx_replace]
