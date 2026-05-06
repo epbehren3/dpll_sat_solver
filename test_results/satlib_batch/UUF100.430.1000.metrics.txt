@@ -1,0 +1,266 @@
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-01.cnf
+Wall Time: 2.8586138860000574
+CPU Time: 2.858591985
+Peak Memory: 861.318359375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-010.cnf
+Wall Time: 2.3505805650002003
+CPU Time: 2.3505142549999998
+Peak Memory: 861.482421875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0100.cnf
+Wall Time: 4.25466165600028
+CPU Time: 4.254705289
+Peak Memory: 939.2783203125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-01000.cnf
+Wall Time: 2.2402934770002503
+CPU Time: 2.240271966
+Peak Memory: 900.208984375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0101.cnf
+Wall Time: 5.289907918000154
+CPU Time: 5.289968877
+Peak Memory: 861.7236328125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0102.cnf
+Wall Time: 3.955646943999909
+CPU Time: 3.955633527
+Peak Memory: 1094.662109375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0103.cnf
+Wall Time: 3.342168534999928
+CPU Time: 3.34216688
+Peak Memory: 1016.8388671875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0104.cnf
+Wall Time: 2.907952088000002
+CPU Time: 2.9079098930000002
+Peak Memory: 978.154296875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0105.cnf
+Wall Time: 4.132214345000193
+CPU Time: 4.132240855
+Peak Memory: 939.2783203125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0106.cnf
+Wall Time: 5.597569798999757
+CPU Time: 5.597575738
+Peak Memory: 900.3876953125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0107.cnf
+Wall Time: 5.570467972999722
+CPU Time: 5.570481174999999
+Peak Memory: 1056.1376953125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0108.cnf
+Wall Time: 7.324102424999637
+CPU Time: 7.324078909
+Peak Memory: 1095.0673828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0109.cnf
+Wall Time: 5.20649047400002
+CPU Time: 5.206465054
+Peak Memory: 1016.8388671875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-011.cnf
+Wall Time: 4.476346523000302
+CPU Time: 4.476396238
+Peak Memory: 939.5048828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0110.cnf
+Wall Time: 6.867320651999762
+CPU Time: 6.867268972
+Peak Memory: 1094.8408203125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0111.cnf
+Wall Time: 4.4931610690000525
+CPU Time: 4.493157641000001
+Peak Memory: 1056.0126953125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0112.cnf
+Wall Time: 2.5518294190001143
+CPU Time: 2.551811912
+Peak Memory: 978.216796875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0113.cnf
+Wall Time: 3.9225331169996025
+CPU Time: 3.922539285
+Peak Memory: 1055.958984375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0114.cnf
+Wall Time: 2.8712074400000347
+CPU Time: 2.8711955820000004
+Peak Memory: 939.4423828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0115.cnf
+Wall Time: 3.6144946530002926
+CPU Time: 3.614486479
+Peak Memory: 939.4423828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0116.cnf
+Wall Time: 5.046633905999897
+CPU Time: 5.04662919
+Peak Memory: 900.3876953125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0117.cnf
+Wall Time: 4.7832771680000405
+CPU Time: 4.783247235
+Peak Memory: 978.1689453125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0118.cnf
+Wall Time: 1.1757704589999776
+CPU Time: 1.1757580029999999
+Peak Memory: 744.3427734375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0119.cnf
+Wall Time: 4.49306221300003
+CPU Time: 4.493055852
+Peak Memory: 978.1689453125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-012.cnf
+Wall Time: 2.6097172839999985
+CPU Time: 2.6097014
+Peak Memory: 861.7236328125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0120.cnf
+Wall Time: 7.456417249999959
+CPU Time: 7.456453808
+Peak Memory: 1055.9169921875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0121.cnf
+Wall Time: 3.325546241000211
+CPU Time: 3.325510675
+Peak Memory: 822.9580078125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0122.cnf
+Wall Time: 1.779382123999767
+CPU Time: 1.779368544
+Peak Memory: 822.8955078125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0123.cnf
+Wall Time: 4.600251114999992
+CPU Time: 4.600260647
+Peak Memory: 1056.1142578125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0124.cnf
+Wall Time: 3.64799973900017
+CPU Time: 3.647993734
+Peak Memory: 1094.8408203125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0125.cnf
+Wall Time: 4.376132780000262
+CPU Time: 4.376139204999999
+Peak Memory: 899.5927734375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0126.cnf
+Wall Time: 2.372085040999991
+CPU Time: 2.3720949510000002
+Peak Memory: 939.4091796875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0127.cnf
+Wall Time: 2.090010796000115
+CPU Time: 2.090004317
+Peak Memory: 938.4833984375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0128.cnf
+Wall Time: 1.9230028349998065
+CPU Time: 1.922998381
+Peak Memory: 899.5927734375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0129.cnf
+Wall Time: 3.16956693200018
+CPU Time: 3.169577833
+Peak Memory: 822.7705078125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-013.cnf
+Wall Time: 8.766970872000002
+CPU Time: 8.766981837000001
+Peak Memory: 938.0673828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0130.cnf
+Wall Time: 3.2635652950002623
+CPU Time: 3.263567481
+Peak Memory: 783.7158203125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0131.cnf
+Wall Time: 2.556507894999868
+CPU Time: 2.556516939
+Peak Memory: 860.2861328125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0132.cnf
+Wall Time: 3.5941120200000114
+CPU Time: 3.5941258659999997
+Peak Memory: 822.9580078125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0133.cnf
+Wall Time: 10.344403301000057
+CPU Time: 10.344458191
+Peak Memory: 1094.8408203125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0134.cnf
+Wall Time: 4.704257642999892
+CPU Time: 4.70424972
+Peak Memory: 939.1826171875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0135.cnf
+Wall Time: 4.990709841999887
+CPU Time: 4.990750517
+Peak Memory: 1016.2646484375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0136.cnf
+Wall Time: 3.3385806490000505
+CPU Time: 3.338577789
+Peak Memory: 939.5048828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0137.cnf
+Wall Time: 2.8535314569999173
+CPU Time: 2.853519587
+Peak Memory: 938.0673828125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0138.cnf
+Wall Time: 3.8628941079996366
+CPU Time: 3.862874063
+Peak Memory: 978.3330078125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0139.cnf
+Wall Time: 4.5229253570000765
+CPU Time: 4.522930016999999
+Peak Memory: 900.3876953125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-014.cnf
+Wall Time: 3.0311029910003526
+CPU Time: 3.031115751
+Peak Memory: 861.7236328125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0140.cnf
+Wall Time: 11.477871125999627
+CPU Time: 11.477928963
+Peak Memory: 1017.005859375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0141.cnf
+Wall Time: 2.43648001199972
+CPU Time: 2.43646931
+Peak Memory: 860.7021484375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0142.cnf
+Wall Time: 2.0835384689999046
+CPU Time: 2.083497667
+Peak Memory: 861.7236328125 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0143.cnf
+Wall Time: 2.1712581030001274
+CPU Time: 2.171264677
+Peak Memory: 1094.951171875 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0144.cnf
+Wall Time: 4.079829093999706
+CPU Time: 4.079821203
+Peak Memory: 1016.2646484375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0145.cnf
+Wall Time: 3.8631802210002206
+CPU Time: 3.863189089
+Peak Memory: 977.3740234375 KB
+Result: UNSAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/UNSAT/UUF100.430.1000/uuf100-0146.cnf
