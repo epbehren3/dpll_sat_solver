@@ -22,14 +22,21 @@ def dimacs(path):
             #if it starts with p, yesssssssssss
             if line.startswith('p'):
                 #splitting at the white space between num_var and num_clauses
+                #parts is a list of the integers from the clause line
                 parts = line.split() 
                 num_var = int(parts[2]) 
                 num_clauses = int(parts[3]) 
                 continue
 
+            #create a list of integers from the clause line, which will be the literals in the clause
             parts = list(map(int, line.split()))
             #remove the trailing 0 at the end of the clause
             parts.pop()
+
+            #SATLIB files may end with a 0 or %, if there are no literals after removing the trailing 0, we can skip the line to avoid adding an empty clause
+            if not parts:
+                continue 
+
             clauses.append(parts)
 
     #function returns the number of literals in the cnf formula
