@@ -1,1 +1,5 @@
 # CNF: satlib_20_91/uf20-0120.cnf
+Wall Time: 0.0021027500042691827
+CPU Time: 0.0021030000000000007
+Peak Memory: 62.25 KB
+Result: UNSAT

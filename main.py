@@ -2,7 +2,7 @@ from grabMetrics import simpleMetrics
 import sys
 from dimacs import dimacs
 from dpll import dpll
-
+from chaff import precompute_watched_literals
 metrics = simpleMetrics()
 #Test to check webhook
 
@@ -14,8 +14,9 @@ def main(argv=None):
     assignment = {i + 1: None for i in range(num_var)}
     result = False
     metrics.start()
+    watched_list = precompute_watched_literals(clauses)
     try:
-        result = dpll(clauses, assignment)
+        result = dpll(clauses, assignment, watched_list)
     except Exception as e:
         print(e)
         result = False

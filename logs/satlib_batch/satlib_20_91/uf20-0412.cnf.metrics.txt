@@ -1,0 +1,5 @@
+# CNF: satlib_20_91/uf20-0412.cnf
+Wall Time: 0.0018292499880772084
+CPU Time: 0.0018290000000000008
+Peak Memory: 77.15625 KB
+Result: SAT

@@ -1,0 +1,5 @@
+# CNF: satlib_20_91/uf20-0576.cnf
+Wall Time: 0.000764124997658655
+CPU Time: 0.0007649999999999983
+Peak Memory: 38.5234375 KB
+Result: SAT

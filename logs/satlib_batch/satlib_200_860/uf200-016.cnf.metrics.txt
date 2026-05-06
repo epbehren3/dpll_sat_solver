@@ -1,1 +1,5 @@
 # CNF: satlib_200_860/uf200-016.cnf
+Wall Time: 503.3880861249927
+CPU Time: 502.410029
+Peak Memory: 3737.921875 KB
+Result: SAT

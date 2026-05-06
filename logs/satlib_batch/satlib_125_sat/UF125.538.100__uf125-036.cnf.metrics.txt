@@ -1,1 +1,5 @@
 # CNF: satlib_125_sat/UF125.538.100/uf125-036.cnf
+Wall Time: 13.870603000017582
+CPU Time: 13.851525
+Peak Memory: 1363.8828125 KB
+Result: UNSAT

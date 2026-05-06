@@ -12,9 +12,12 @@ import dlis
 #import grabMetrics
 
 
-def dpll(clauses, assignment):
+def dpll(clauses, assignment, watched_list=None):
+    if watched_list is None:
+        watched_list = chaff.precompute_watched_literals(clauses)
+
     #First we run BCP to propagate the consequences of our current assignment. 
-    new_assignment = chaff.watched_bcp(clauses, assignment)
+    new_assignment = chaff.watched_bcp(clauses, assignment, watched_list)
 
     if new_assignment is None:
         #If conflict, backtrack  
@@ -31,18 +34,16 @@ def dpll(clauses, assignment):
         #If there are no unassigned literals left, but not all clauses are satisfied, we have a conflict. Backtrack. 
         return False
 
-#DFS Logic,  We branch on the chosen literal and go several layers deep. Once we reach a fail, we go back and try the other node. 
-    #Branch on the chosen literal being true.
-    new_assignment[literal] = True
-    if dpll(clauses, new_assignment):
+    #DFS Logic: branch on the chosen literal, backtrack if both fail.
+    var = abs(literal)
+    new_assignment[var] = (literal > 0)   # try the polarity DLIS recommended
+    if dpll(clauses, new_assignment, [w[:] for w in watched_list]):
         return True
 
-    #Branch on the chosen literal being false.
-    new_assignment[literal] = False
-    if dpll(clauses, new_assignment):
+    new_assignment[var] = (literal <= 0)  # try the opposite polarity
+    if dpll(clauses, new_assignment, [w[:] for w in watched_list]):
         return True
 
-    #If neither branch leads to a solution, we backtrack.
     return False
 
 

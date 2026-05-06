@@ -17,6 +17,9 @@
 #If both literals are false, then we have a conflict.
 
 
+from typing import Any
+
+
 def clause_satisfied(clause, assignment):
     return any(
         (literal > 0 and assignment.get(abs(literal)) is True)
@@ -40,27 +43,8 @@ def check_falsified(literal, assignment):
     return val is True
 
 
-#Function updates watched literals.
-def watched_literals(clause, assignment):
-    #Literally just iterates through the clause to determine if a literal has not been assigned yet.
-    watched = []
-    for literal in clause:
-        var = abs(literal)
-        if (literal > 0 and assignment.get(var) is True) or (literal < 0 and assignment.get(var) is False):
-            #If the literal is satisfied, we can stop watching this clause.
-                break
-    return watched
-
-def precompute_watched_literals(clauses, assignment):
-    #Watched literals key to match clause length
-    watched_literals = []
-    master_list = []
-    for clause in clauses: 
-        if(idx, literal in enumerate(clause) and assignment.get(abs(literal)) is None and literal not in watched_literals[len(clause)] and len(watched_literals) < 2):
-            watched_literals[idx].append(literal)
-        master_list.append(watched_literals)
-
-    return master_list
+def precompute_watched_literals(clauses):
+    return [list(clause[:2]) for clause in clauses]
 
 def update_single_watched(new_assignment, watched):
     # IF there is a single watched literal, we update the assignment to satisfy that literal.
@@ -78,9 +62,6 @@ def update_single_watched(new_assignment, watched):
 def update_double_watched(new_assignment, clause, watched):
     # If there are two watched literals, we check if either of them is false. If one is false, we look for another literal to watch.
     changed = False
-    if check_falsified(watched[0], new_assignment) and check_falsified(watched[1], new_assignment):
-        #If both watched literals are false, we have a conflict. Backtrack.
-        return None, False
     if check_falsified(watched[0], new_assignment):
         new_assignment, did_replace = check_literals(clause, new_assignment, watched, 0)
         if did_replace:
@@ -103,43 +84,37 @@ def update_double_watched(new_assignment, clause, watched):
                 changed = True
     return new_assignment, changed
 
-        if literal is other_lit:
+
 def check_literals(clause, assignment, watched, idx_replace):
-    new_assignment = assignment.copy()
     other_lit = watched[1 - idx_replace]
     for literal in clause:
-        if literal is other_lit:
+        if literal == other_lit:
             continue
-        if not check_falsified(literal, new_assignment):
+        if not check_falsified(literal, assignment):
             watched[idx_replace] = literal
-            return new_assignment, True
-    return new_assignment, False
+            return assignment, True
+    return assignment, False
 
 
 #Updates Assignment based on watched literals.
-def watched_bcp(clauses, assignment: dict):
+def watched_bcp(clauses, assignment: dict, watched_list: list):
     new_assignment = assignment.copy()
-    #Loop through continuously until there are no more changes to the assignment.
     changed = True
     while changed:
         changed = False
-        for clause in clauses:
-            #Call watched literals to detrmine assignment update.
-            watched = watched_literals(clause, new_assignment)
+        for i, clause in enumerate(clauses):
+            watched = watched_list[i]
             if len(watched) == 0:
-                #If there are no watched literals, the clause has been satisfied.
-                #This was a correctness check that my LLM suggested when I was learning about watched literals, I am unsure if this logic makes sense or is necessary.
                 if clause_satisfied(clause, new_assignment):
                     continue
-                #If the clause is not satisfied, we have a conflict. Backtrack.
                 return None
-            if len(watched) == 1:
+            elif len(watched) == 1:
                 new_assignment, did_unit = update_single_watched(new_assignment, watched)
                 if new_assignment is None:
                     return None
                 if did_unit:
                     changed = True
-            if len(watched) == 2:
+            else:
                 new_assignment, did_double = update_double_watched(new_assignment, clause, watched)
                 if new_assignment is None:
                     return None
