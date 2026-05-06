@@ -41,6 +41,22 @@ def sum_metrics(filename):
     print(f"SAT count: {sat_count}")
     print(f"UNSAT count: {unsat_count}")
 
+    # Min / Max / Avg
+if wall_times:
+    print(f"Min Wall Time: {min(wall_times)}")
+    print(f"Max Wall Time: {max(wall_times)}")
+    print(f"Avg Wall Time: {total_wall / len(wall_times)}")
+
+if cpu_times:
+    print(f"Min CPU Time: {min(cpu_times)}")
+    print(f"Max CPU Time: {max(cpu_times)}")
+    print(f"Avg CPU Time: {total_cpu / len(cpu_times)}")
+
+if peak_memories:
+    print(f"Min Peak Memory: {min(peak_memories)} KB")
+    print(f"Max Peak Memory: {max(peak_memories)} KB")
+    print(f"Avg Peak Memory: {total_peak / len(peak_memories)} KB")
+
 if __name__ == "__main__":
     filename = sys.argv[1] if len(sys.argv) > 1 else 'logs/metrics_20_91.txt'
     sum_metrics(filename)
