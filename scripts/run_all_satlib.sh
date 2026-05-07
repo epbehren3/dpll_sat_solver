@@ -16,8 +16,8 @@
 #   SATLIB_EXPECT     Force expected label ("sat" or "unsat") for every benchmark
 #
 # Output files:
-#   $LOG_ROOT/<benchmark>.metrics.txt   one shared file per benchmark dir
-#   $LOG_ROOT/satlib_sheet.csv          summary sheet across all dirs
+#   $LOG_ROOT/<benchmark>_basic.metrics.txt   one shared file per benchmark dir
+#   $LOG_ROOT/satlib_sheet_basic.csv          summary sheet across all dirs
 
 set -u
 
@@ -89,7 +89,7 @@ for d in "${DIRS[@]}"; do
   d_base="$(basename "$d")"
   echo "========== $d ($d_base) =========="
 
-  METRICS_LOG_FILE="$LOG_ROOT/${d_base}.metrics.txt"
+  METRICS_LOG_FILE="$LOG_ROOT/${d_base}_basic.metrics.txt"
   export METRICS_LOG_FILE
 
   files=()
@@ -118,7 +118,7 @@ echo "Summary (per benchmark directory)"
 echo "Log root: $LOG_ROOT"
 echo "=============================="
 
-SHEET="$LOG_ROOT/satlib_sheet.csv"
+SHEET="$LOG_ROOT/satlib_sheet_basic.csv"
 printf 'Benchmark,CNFs,SAT,UNSAT,Incomplete,Accuracy%%,AvgWall(s),MinWall(s),MaxWall(s),TotalWall(s)\n' > "$SHEET"
 
 for d in "${DIRS[@]}"; do
@@ -147,7 +147,7 @@ import sys
 
 root, dbase, sheet_path = sys.argv[1], sys.argv[2], sys.argv[3]
 exp = (os.environ.get("SATLIB_EXPECT_DIR") or "").strip().lower()
-metrics_file = os.path.join(root, f"{dbase}.metrics.txt")
+metrics_file = os.path.join(root, f"{dbase}_basic.metrics.txt")
 
 if not os.path.exists(metrics_file):
     print(f"\n{dbase}: (no metrics file at {metrics_file})")

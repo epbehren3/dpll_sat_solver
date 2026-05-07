@@ -1,0 +1,5000 @@
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-01.cnf
+Wall Time: 0.016838059000065186
+CPU Time: 0.016835462000000002
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-010.cnf
+Wall Time: 0.04778855399990789
+CPU Time: 0.047773954
+Peak Memory: 362.029296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0100.cnf
+Wall Time: 0.030550487000027715
+CPU Time: 0.030521468
+Peak Memory: 262.693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-01000.cnf
+Wall Time: 0.01953971900002216
+CPU Time: 0.019506102
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0101.cnf
+Wall Time: 0.010111169000083464
+CPU Time: 0.010102234
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0102.cnf
+Wall Time: 0.015915958000050523
+CPU Time: 0.015914263
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0103.cnf
+Wall Time: 0.0063613499999064516
+CPU Time: 0.006338388
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0104.cnf
+Wall Time: 0.009191166999926281
+CPU Time: 0.009192067000000002
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0105.cnf
+Wall Time: 0.006538132000059704
+CPU Time: 0.006533132999999998
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0106.cnf
+Wall Time: 0.02365109099991969
+CPU Time: 0.023634709000000004
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0107.cnf
+Wall Time: 0.01771426799996334
+CPU Time: 0.017700476
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0108.cnf
+Wall Time: 0.009284159000117143
+CPU Time: 0.009277611
+Peak Memory: 421.044921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0109.cnf
+Wall Time: 0.010904774999971778
+CPU Time: 0.010896016000000001
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-011.cnf
+Wall Time: 0.047622505999925124
+CPU Time: 0.047591908999999995
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0110.cnf
+Wall Time: 0.012307841999927405
+CPU Time: 0.012307981
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0111.cnf
+Wall Time: 0.010983269999996992
+CPU Time: 0.010985180999999998
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0112.cnf
+Wall Time: 0.05580815200005418
+CPU Time: 0.05580364499999999
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0113.cnf
+Wall Time: 0.00678503299991462
+CPU Time: 0.006784698999999998
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0114.cnf
+Wall Time: 0.007618732999844724
+CPU Time: 0.00759223
+Peak Memory: 361.3740234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0115.cnf
+Wall Time: 0.004867345000093337
+CPU Time: 0.004866518999999998
+Peak Memory: 242.1708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0116.cnf
+Wall Time: 0.005039705999934085
+CPU Time: 0.005039522999999999
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0117.cnf
+Wall Time: 0.005554720999953133
+CPU Time: 0.005554514
+Peak Memory: 262.0380859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0118.cnf
+Wall Time: 0.032360386000164
+CPU Time: 0.032310884
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0119.cnf
+Wall Time: 0.024471747999996296
+CPU Time: 0.024458729999999998
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-012.cnf
+Wall Time: 0.021804952999900706
+CPU Time: 0.021779042999999998
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0120.cnf
+Wall Time: 0.045273572000041895
+CPU Time: 0.045231294000000005
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0121.cnf
+Wall Time: 0.02154167999992751
+CPU Time: 0.021518467
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0122.cnf
+Wall Time: 0.009541513000158375
+CPU Time: 0.009526034000000001
+Peak Memory: 440.912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0123.cnf
+Wall Time: 0.01016518200003702
+CPU Time: 0.010165598
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0124.cnf
+Wall Time: 0.03078805099994497
+CPU Time: 0.030740141999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0125.cnf
+Wall Time: 0.0064210959999400075
+CPU Time: 0.006421228999999999
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0126.cnf
+Wall Time: 0.00658923700007108
+CPU Time: 0.0065894460000000005
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0127.cnf
+Wall Time: 0.013699302000077296
+CPU Time: 0.013673449999999998
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0128.cnf
+Wall Time: 0.046835619000148654
+CPU Time: 0.046805215
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0129.cnf
+Wall Time: 0.016727424000009705
+CPU Time: 0.016728237
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-013.cnf
+Wall Time: 0.007150559999899997
+CPU Time: 0.0071509320000000005
+Peak Memory: 341.5068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0130.cnf
+Wall Time: 0.027539116000070862
+CPU Time: 0.027523898999999998
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0131.cnf
+Wall Time: 0.0059096479999425355
+CPU Time: 0.0059097210000000015
+Peak Memory: 281.9052734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0132.cnf
+Wall Time: 0.012480405999895083
+CPU Time: 0.012467426
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0133.cnf
+Wall Time: 0.029657460999942487
+CPU Time: 0.029617042999999996
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0134.cnf
+Wall Time: 0.00979647000008299
+CPU Time: 0.009787100999999998
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0135.cnf
+Wall Time: 0.008018165000066801
+CPU Time: 0.008011572000000002
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0136.cnf
+Wall Time: 0.008209043000078964
+CPU Time: 0.008184306
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0137.cnf
+Wall Time: 0.027207492999878014
+CPU Time: 0.027186344999999997
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0138.cnf
+Wall Time: 0.024877964000097563
+CPU Time: 0.024867622
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0139.cnf
+Wall Time: 0.005470629999990706
+CPU Time: 0.005450211999999999
+Peak Memory: 182.9912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-014.cnf
+Wall Time: 0.006318818999943687
+CPU Time: 0.006297602999999999
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0140.cnf
+Wall Time: 0.007825206000006801
+CPU Time: 0.007825270999999998
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0141.cnf
+Wall Time: 0.008320904000129303
+CPU Time: 0.00831625
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0142.cnf
+Wall Time: 0.010584353000012925
+CPU Time: 0.010551444
+Peak Memory: 421.33203125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0143.cnf
+Wall Time: 0.008780786999977863
+CPU Time: 0.008767599999999999
+Peak Memory: 401.177734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0144.cnf
+Wall Time: 0.04369952499996543
+CPU Time: 0.043658196
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0145.cnf
+Wall Time: 0.018472236999969027
+CPU Time: 0.018463267000000002
+Peak Memory: 322.294921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0146.cnf
+Wall Time: 0.021002578999969046
+CPU Time: 0.020961255999999998
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0147.cnf
+Wall Time: 0.010014333000071929
+CPU Time: 0.010008164
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0148.cnf
+Wall Time: 0.011453404999883787
+CPU Time: 0.011454115
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0149.cnf
+Wall Time: 0.009174734999987777
+CPU Time: 0.009174907
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-015.cnf
+Wall Time: 0.004142271000091569
+CPU Time: 0.004141820000000001
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0150.cnf
+Wall Time: 0.004164682999999059
+CPU Time: 0.0041640969999999985
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0151.cnf
+Wall Time: 0.10562092100008158
+CPU Time: 0.10557413099999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0152.cnf
+Wall Time: 0.018378519999942
+CPU Time: 0.018343081
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0153.cnf
+Wall Time: 0.00994020799998907
+CPU Time: 0.009940464999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0154.cnf
+Wall Time: 0.005138561999956437
+CPU Time: 0.00513865
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0155.cnf
+Wall Time: 0.03115497199996753
+CPU Time: 0.031108851
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0156.cnf
+Wall Time: 0.00815618199999335
+CPU Time: 0.008155856
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0157.cnf
+Wall Time: 0.012942315999907805
+CPU Time: 0.012926047999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0158.cnf
+Wall Time: 0.022750196000060896
+CPU Time: 0.022751424
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0159.cnf
+Wall Time: 0.013265427000078489
+CPU Time: 0.013243904
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-016.cnf
+Wall Time: 0.020790264999959618
+CPU Time: 0.020783918000000002
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0160.cnf
+Wall Time: 0.007600046000106886
+CPU Time: 0.007599425999999999
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0161.cnf
+Wall Time: 0.006809902999975748
+CPU Time: 0.0068101870000000005
+Peak Memory: 301.7724609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0162.cnf
+Wall Time: 0.0960029929999564
+CPU Time: 0.095949317
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0163.cnf
+Wall Time: 0.0219919190001292
+CPU Time: 0.02195463
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0164.cnf
+Wall Time: 0.02921318399990014
+CPU Time: 0.029188474000000002
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0165.cnf
+Wall Time: 0.018272947000014028
+CPU Time: 0.018262690999999998
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0166.cnf
+Wall Time: 0.016371216999914395
+CPU Time: 0.016345128
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0167.cnf
+Wall Time: 0.020666619999929026
+CPU Time: 0.020648613000000003
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0168.cnf
+Wall Time: 0.006807229000060033
+CPU Time: 0.006800243000000001
+Peak Memory: 301.7724609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0169.cnf
+Wall Time: 0.010832070000105887
+CPU Time: 0.010820089
+Peak Memory: 520.802734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-017.cnf
+Wall Time: 0.026494751999962318
+CPU Time: 0.026474699000000004
+Peak Memory: 262.693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0170.cnf
+Wall Time: 0.006065180999939912
+CPU Time: 0.006057402
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0171.cnf
+Wall Time: 0.03818406700020205
+CPU Time: 0.038184759
+Peak Memory: 302.427734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0172.cnf
+Wall Time: 0.018198288999883516
+CPU Time: 0.018188787999999997
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0173.cnf
+Wall Time: 0.012111810000078549
+CPU Time: 0.01210507
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0174.cnf
+Wall Time: 0.006514178999850628
+CPU Time: 0.006514376999999998
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0175.cnf
+Wall Time: 0.018563903000085702
+CPU Time: 0.018558938
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0176.cnf
+Wall Time: 0.03434295000010934
+CPU Time: 0.03431087
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0177.cnf
+Wall Time: 0.04005978099985441
+CPU Time: 0.040050559
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0178.cnf
+Wall Time: 0.005544082999904276
+CPU Time: 0.005543658999999998
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0179.cnf
+Wall Time: 0.00632010099980107
+CPU Time: 0.006331732999999999
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-018.cnf
+Wall Time: 0.008626540000022942
+CPU Time: 0.008626867
+Peak Memory: 401.177734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0180.cnf
+Wall Time: 0.008457738000061
+CPU Time: 0.00845791
+Peak Memory: 401.1083984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0181.cnf
+Wall Time: 0.03936813600012101
+CPU Time: 0.039359345999999996
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0182.cnf
+Wall Time: 0.023451643000043987
+CPU Time: 0.023427271
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0183.cnf
+Wall Time: 0.008136975000070379
+CPU Time: 0.008137602
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0184.cnf
+Wall Time: 0.012080923999974402
+CPU Time: 0.012081669000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0185.cnf
+Wall Time: 0.011667931999909342
+CPU Time: 0.011651678
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0186.cnf
+Wall Time: 0.005422714999895106
+CPU Time: 0.005421833999999999
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0187.cnf
+Wall Time: 0.026111286000059408
+CPU Time: 0.026092369000000004
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0188.cnf
+Wall Time: 0.004828501000019969
+CPU Time: 0.004828251
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0189.cnf
+Wall Time: 0.009875144000034197
+CPU Time: 0.009861785000000001
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-019.cnf
+Wall Time: 0.06241836499998499
+CPU Time: 0.062404263999999994
+Peak Memory: 262.693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0190.cnf
+Wall Time: 0.0061251220001850015
+CPU Time: 0.006125626
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0191.cnf
+Wall Time: 0.004920996000009836
+CPU Time: 0.004921603999999998
+Peak Memory: 143.31640625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0192.cnf
+Wall Time: 0.007894282000052044
+CPU Time: 0.007884683
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0193.cnf
+Wall Time: 0.016661835999912
+CPU Time: 0.016652783999999997
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0194.cnf
+Wall Time: 0.04538829200009786
+CPU Time: 0.04535589
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0195.cnf
+Wall Time: 0.014223320999917632
+CPU Time: 0.014209313999999999
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0196.cnf
+Wall Time: 0.005972202000066318
+CPU Time: 0.005972225999999999
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0197.cnf
+Wall Time: 0.028927057999908357
+CPU Time: 0.028920289000000002
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0198.cnf
+Wall Time: 0.010030190999941624
+CPU Time: 0.010031034
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0199.cnf
+Wall Time: 0.01877423800010547
+CPU Time: 0.018790232999999996
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-02.cnf
+Wall Time: 0.0313274420000198
+CPU Time: 0.031307876
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-020.cnf
+Wall Time: 0.005133227000214902
+CPU Time: 0.005133026000000001
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0200.cnf
+Wall Time: 0.004054251000070508
+CPU Time: 0.004053981000000002
+Peak Memory: 182.50390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0201.cnf
+Wall Time: 0.006299060999936046
+CPU Time: 0.0062795770000000015
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0202.cnf
+Wall Time: 0.04257773599988468
+CPU Time: 0.042547663
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0203.cnf
+Wall Time: 0.003710428000204047
+CPU Time: 0.0037090509999999997
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0204.cnf
+Wall Time: 0.009624973999962094
+CPU Time: 0.009624793000000001
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0205.cnf
+Wall Time: 0.00810744499995053
+CPU Time: 0.008098837999999999
+Peak Memory: 381.310546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0206.cnf
+Wall Time: 0.005728181000222321
+CPU Time: 0.005704529
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0207.cnf
+Wall Time: 0.007033812999907241
+CPU Time: 0.007033820000000001
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0208.cnf
+Wall Time: 0.012947201000088171
+CPU Time: 0.012948038000000002
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0209.cnf
+Wall Time: 0.005028903999800605
+CPU Time: 0.005028616999999999
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-021.cnf
+Wall Time: 0.009883256999955847
+CPU Time: 0.009878304000000001
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0210.cnf
+Wall Time: 0.015072634999796719
+CPU Time: 0.015066824999999999
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0211.cnf
+Wall Time: 0.02187544399998842
+CPU Time: 0.021856242999999997
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0212.cnf
+Wall Time: 0.01237760399999388
+CPU Time: 0.012373743
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0213.cnf
+Wall Time: 0.00532206100001531
+CPU Time: 0.005322168999999998
+Peak Memory: 261.97265625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0214.cnf
+Wall Time: 0.006143474000054994
+CPU Time: 0.006138775999999999
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0215.cnf
+Wall Time: 0.007433236999986548
+CPU Time: 0.007414492000000002
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0216.cnf
+Wall Time: 0.005595299000106024
+CPU Time: 0.005586999000000002
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0217.cnf
+Wall Time: 0.019604072999982236
+CPU Time: 0.019599558000000003
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0218.cnf
+Wall Time: 0.0070142659999419266
+CPU Time: 0.006999138999999998
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0219.cnf
+Wall Time: 0.015174666000120851
+CPU Time: 0.015174848000000001
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-022.cnf
+Wall Time: 0.005666026999961105
+CPU Time: 0.00566562
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0220.cnf
+Wall Time: 0.022295671999927436
+CPU Time: 0.022290731
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0221.cnf
+Wall Time: 0.033019378000062716
+CPU Time: 0.033007616000000004
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0222.cnf
+Wall Time: 0.013721715999963635
+CPU Time: 0.013704658000000002
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0223.cnf
+Wall Time: 0.021355379999931756
+CPU Time: 0.021348122999999997
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0224.cnf
+Wall Time: 0.009257664000188015
+CPU Time: 0.009258031999999998
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0225.cnf
+Wall Time: 0.0071278240000083315
+CPU Time: 0.007127624000000001
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0226.cnf
+Wall Time: 0.02486860500016519
+CPU Time: 0.024859311000000002
+Peak Memory: 222.958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0227.cnf
+Wall Time: 0.006476409000015337
+CPU Time: 0.0064673000000000005
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0228.cnf
+Wall Time: 0.017524438000009468
+CPU Time: 0.017504934
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0229.cnf
+Wall Time: 0.007114708000017345
+CPU Time: 0.007115623999999999
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-023.cnf
+Wall Time: 0.006144052999843552
+CPU Time: 0.0061148999999999995
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0230.cnf
+Wall Time: 0.004843186000016431
+CPU Time: 0.0048328400000000014
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0231.cnf
+Wall Time: 0.011087695000014719
+CPU Time: 0.011079130999999999
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0232.cnf
+Wall Time: 0.0220005730000139
+CPU Time: 0.02199917
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0233.cnf
+Wall Time: 0.00469486799988772
+CPU Time: 0.004674807999999999
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0234.cnf
+Wall Time: 0.005640301000084946
+CPU Time: 0.005640224000000001
+Peak Memory: 262.107421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0235.cnf
+Wall Time: 0.007210234000012861
+CPU Time: 0.007210201000000001
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0236.cnf
+Wall Time: 0.011424134999970192
+CPU Time: 0.01142493
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0237.cnf
+Wall Time: 0.010062472000072376
+CPU Time: 0.010062721
+Peak Memory: 500.513671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0238.cnf
+Wall Time: 0.007822374000170385
+CPU Time: 0.007805885
+Peak Memory: 401.04296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0239.cnf
+Wall Time: 0.006399587000032625
+CPU Time: 0.006392139999999999
+Peak Memory: 341.44140625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-024.cnf
+Wall Time: 0.008932656999832034
+CPU Time: 0.008919651
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0240.cnf
+Wall Time: 0.005591116000005059
+CPU Time: 0.005591978000000001
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0241.cnf
+Wall Time: 0.028007561000094938
+CPU Time: 0.027965368
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0242.cnf
+Wall Time: 0.014421907999803807
+CPU Time: 0.014421778000000001
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0243.cnf
+Wall Time: 0.003764815000067756
+CPU Time: 0.003764431999999998
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0244.cnf
+Wall Time: 0.00754279900002075
+CPU Time: 0.007543055
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0245.cnf
+Wall Time: 0.016705581999985952
+CPU Time: 0.016692861
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0246.cnf
+Wall Time: 0.011923116000161826
+CPU Time: 0.011910967000000001
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0247.cnf
+Wall Time: 0.012724453999908292
+CPU Time: 0.012712147999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0248.cnf
+Wall Time: 0.01823042399996666
+CPU Time: 0.018226822000000004
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0249.cnf
+Wall Time: 0.04473396599996704
+CPU Time: 0.044722073
+Peak Memory: 322.294921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-025.cnf
+Wall Time: 0.0037149990000671096
+CPU Time: 0.003714031999999999
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0250.cnf
+Wall Time: 0.008675841000012952
+CPU Time: 0.008668764999999998
+Peak Memory: 420.9755859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0251.cnf
+Wall Time: 0.011734337000007145
+CPU Time: 0.011724881
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0252.cnf
+Wall Time: 0.018921371000033105
+CPU Time: 0.018917184000000004
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0253.cnf
+Wall Time: 0.015894392000063817
+CPU Time: 0.015882510000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0254.cnf
+Wall Time: 0.0553499349998674
+CPU Time: 0.055314573000000006
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0255.cnf
+Wall Time: 0.017529518000173994
+CPU Time: 0.017530177
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0256.cnf
+Wall Time: 0.01073454699985632
+CPU Time: 0.010735121999999998
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0257.cnf
+Wall Time: 0.028770391000080053
+CPU Time: 0.028766421
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0258.cnf
+Wall Time: 0.04534417699983351
+CPU Time: 0.045332163999999994
+Peak Memory: 322.294921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0259.cnf
+Wall Time: 0.06579567300013878
+CPU Time: 0.065747764
+Peak Memory: 461.400390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-026.cnf
+Wall Time: 0.007622643999866341
+CPU Time: 0.0076224280000000005
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0260.cnf
+Wall Time: 0.01036256899988075
+CPU Time: 0.010363479
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0261.cnf
+Wall Time: 0.05183534200000395
+CPU Time: 0.051829428999999996
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0262.cnf
+Wall Time: 0.007523664000018471
+CPU Time: 0.007495016
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0263.cnf
+Wall Time: 0.03173518700009481
+CPU Time: 0.031701362000000004
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0264.cnf
+Wall Time: 0.008950963999950545
+CPU Time: 0.008927992
+Peak Memory: 421.005859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0265.cnf
+Wall Time: 0.005914683999890258
+CPU Time: 0.005908225
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0266.cnf
+Wall Time: 0.02375147099996866
+CPU Time: 0.023737037000000002
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0267.cnf
+Wall Time: 0.040285218999997596
+CPU Time: 0.040269701
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0268.cnf
+Wall Time: 0.05147060300009798
+CPU Time: 0.051465638
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0269.cnf
+Wall Time: 0.0057442660001925105
+CPU Time: 0.00574391
+Peak Memory: 262.0380859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-027.cnf
+Wall Time: 0.007959758999959377
+CPU Time: 0.007960276000000002
+Peak Memory: 381.310546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0270.cnf
+Wall Time: 0.016071042000021407
+CPU Time: 0.016057763000000003
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0271.cnf
+Wall Time: 0.006631698000092001
+CPU Time: 0.006626212999999999
+Peak Memory: 321.57421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0272.cnf
+Wall Time: 0.006799707000027411
+CPU Time: 0.0067999259999999995
+Peak Memory: 341.44140625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0273.cnf
+Wall Time: 0.013048923000042123
+CPU Time: 0.013049271
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0274.cnf
+Wall Time: 0.03749345899996115
+CPU Time: 0.037470136
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0275.cnf
+Wall Time: 0.04674234799995247
+CPU Time: 0.046730024999999994
+Peak Memory: 322.294921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0276.cnf
+Wall Time: 0.03305046300010872
+CPU Time: 0.033043607
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0277.cnf
+Wall Time: 0.008280148000039844
+CPU Time: 0.008277737
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0278.cnf
+Wall Time: 0.017762045999916154
+CPU Time: 0.017755458
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0279.cnf
+Wall Time: 0.02828217899991614
+CPU Time: 0.028266190999999996
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-028.cnf
+Wall Time: 0.031755069999917396
+CPU Time: 0.03174005
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0280.cnf
+Wall Time: 0.03090816899998572
+CPU Time: 0.030894887000000003
+Peak Memory: 302.427734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0281.cnf
+Wall Time: 0.013052234000042517
+CPU Time: 0.013028550000000002
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0282.cnf
+Wall Time: 0.022344396000107736
+CPU Time: 0.022296455
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0283.cnf
+Wall Time: 0.014018650000025445
+CPU Time: 0.013995950999999998
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0284.cnf
+Wall Time: 0.0328100159999849
+CPU Time: 0.032779028
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0285.cnf
+Wall Time: 0.017026386999987153
+CPU Time: 0.017015403
+Peak Memory: 202.8583984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0286.cnf
+Wall Time: 0.019805205000011483
+CPU Time: 0.019792188000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0287.cnf
+Wall Time: 0.027076706000116246
+CPU Time: 0.027036092999999997
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0288.cnf
+Wall Time: 0.006855383000129223
+CPU Time: 0.006855271
+Peak Memory: 341.44140625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0289.cnf
+Wall Time: 0.030546734999916225
+CPU Time: 0.030537073
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-029.cnf
+Wall Time: 0.015657972000099107
+CPU Time: 0.015637935999999998
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0290.cnf
+Wall Time: 0.008723449999934019
+CPU Time: 0.008723607
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0291.cnf
+Wall Time: 0.004976934000069377
+CPU Time: 0.004976479000000001
+Peak Memory: 261.97265625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0292.cnf
+Wall Time: 0.005746762999933708
+CPU Time: 0.00573714
+Peak Memory: 262.107421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0293.cnf
+Wall Time: 0.02835829500008913
+CPU Time: 0.028328660999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0294.cnf
+Wall Time: 0.007762857999978223
+CPU Time: 0.007763766
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0295.cnf
+Wall Time: 0.04044855000006464
+CPU Time: 0.040445935
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0296.cnf
+Wall Time: 0.04395054699989487
+CPU Time: 0.043912829
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0297.cnf
+Wall Time: 0.00891995400002088
+CPU Time: 0.008920766000000002
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0298.cnf
+Wall Time: 0.006584821000160446
+CPU Time: 0.006584521000000001
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0299.cnf
+Wall Time: 0.008688427999913984
+CPU Time: 0.008679218999999998
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-03.cnf
+Wall Time: 0.025501914999949804
+CPU Time: 0.025478670000000002
+Peak Memory: 381.896484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-030.cnf
+Wall Time: 0.0051390559999617835
+CPU Time: 0.005120973000000001
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0300.cnf
+Wall Time: 0.009026948999917295
+CPU Time: 0.009004007
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0301.cnf
+Wall Time: 0.03660651300015161
+CPU Time: 0.036561791999999996
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0302.cnf
+Wall Time: 0.012314071000218973
+CPU Time: 0.012293743
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0303.cnf
+Wall Time: 0.00446076200000789
+CPU Time: 0.004460329000000001
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0304.cnf
+Wall Time: 0.009497118999888698
+CPU Time: 0.009498098
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0305.cnf
+Wall Time: 0.007465849000027447
+CPU Time: 0.007466574
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0306.cnf
+Wall Time: 0.005859101999931227
+CPU Time: 0.005851296999999998
+Peak Memory: 183.060546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0307.cnf
+Wall Time: 0.017626689000053375
+CPU Time: 0.01761681
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0308.cnf
+Wall Time: 0.020003330000008646
+CPU Time: 0.019996748
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0309.cnf
+Wall Time: 0.056629465000014534
+CPU Time: 0.056621718999999994
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-031.cnf
+Wall Time: 0.008846972000128517
+CPU Time: 0.008846910999999999
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0310.cnf
+Wall Time: 0.013265886999988652
+CPU Time: 0.013266354000000001
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0311.cnf
+Wall Time: 0.018210876000011922
+CPU Time: 0.018211643
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0312.cnf
+Wall Time: 0.014531243000192262
+CPU Time: 0.014522268000000001
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0313.cnf
+Wall Time: 0.007685873999889736
+CPU Time: 0.007685715000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0314.cnf
+Wall Time: 0.005373631000111345
+CPU Time: 0.005373465000000001
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0315.cnf
+Wall Time: 0.009518977999960043
+CPU Time: 0.009515051
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0316.cnf
+Wall Time: 0.009787892000076681
+CPU Time: 0.009788006
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0317.cnf
+Wall Time: 0.00775174699992931
+CPU Time: 0.007751861999999998
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0318.cnf
+Wall Time: 0.006272217000059754
+CPU Time: 0.006272179999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0319.cnf
+Wall Time: 0.012224335999917457
+CPU Time: 0.012224780999999999
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-032.cnf
+Wall Time: 0.005942780999930619
+CPU Time: 0.005942739000000001
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0320.cnf
+Wall Time: 0.01529725000000326
+CPU Time: 0.015283455
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0321.cnf
+Wall Time: 0.02392186700012644
+CPU Time: 0.023884977999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0322.cnf
+Wall Time: 0.009225412999967375
+CPU Time: 0.009225466
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0323.cnf
+Wall Time: 0.006939127000123335
+CPU Time: 0.006917607999999999
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0324.cnf
+Wall Time: 0.004479067999909603
+CPU Time: 0.004471674000000002
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0325.cnf
+Wall Time: 0.0304062850000264
+CPU Time: 0.030370775999999995
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0326.cnf
+Wall Time: 0.01646013499998844
+CPU Time: 0.016451234000000002
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0327.cnf
+Wall Time: 0.003914560000112033
+CPU Time: 0.0039142989999999996
+Peak Memory: 202.37109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0328.cnf
+Wall Time: 0.005800601000146344
+CPU Time: 0.0058005359999999985
+Peak Memory: 281.9052734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0329.cnf
+Wall Time: 0.01838391799992678
+CPU Time: 0.018356603
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-033.cnf
+Wall Time: 0.013550767999959135
+CPU Time: 0.013545128
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0330.cnf
+Wall Time: 0.009022932000107176
+CPU Time: 0.009023146000000001
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0331.cnf
+Wall Time: 0.006039229999942108
+CPU Time: 0.006039025999999999
+Peak Memory: 182.9912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0332.cnf
+Wall Time: 0.020377064000058454
+CPU Time: 0.020363581000000002
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0333.cnf
+Wall Time: 0.03505987899984575
+CPU Time: 0.035035078000000004
+Peak Memory: 262.693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0334.cnf
+Wall Time: 0.012046904000044378
+CPU Time: 0.012047519999999999
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0335.cnf
+Wall Time: 0.007320574999994278
+CPU Time: 0.007321919
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0336.cnf
+Wall Time: 0.02966120700011743
+CPU Time: 0.029642736999999995
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0337.cnf
+Wall Time: 0.010283399000172722
+CPU Time: 0.010271367000000002
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0338.cnf
+Wall Time: 0.007872169999927792
+CPU Time: 0.0078724
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0339.cnf
+Wall Time: 0.025613281999994797
+CPU Time: 0.025608604
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-034.cnf
+Wall Time: 0.005253155999980663
+CPU Time: 0.005253225
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0340.cnf
+Wall Time: 0.007731348000106664
+CPU Time: 0.007731991999999998
+Peak Memory: 381.2412109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0341.cnf
+Wall Time: 0.0052622179998707
+CPU Time: 0.005251238999999998
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0342.cnf
+Wall Time: 0.006364407000091887
+CPU Time: 0.006350208999999999
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0343.cnf
+Wall Time: 0.011868364000065412
+CPU Time: 0.011868681
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0344.cnf
+Wall Time: 0.026711429999977554
+CPU Time: 0.026690934
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0345.cnf
+Wall Time: 0.07770635299993955
+CPU Time: 0.07768217499999999
+Peak Memory: 341.9287109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0346.cnf
+Wall Time: 0.004467165000050954
+CPU Time: 0.004466662999999999
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0347.cnf
+Wall Time: 0.02172085100005461
+CPU Time: 0.021692332999999998
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0348.cnf
+Wall Time: 0.007667751999861139
+CPU Time: 0.007667793000000001
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0349.cnf
+Wall Time: 0.033060224999871934
+CPU Time: 0.033042682
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-035.cnf
+Wall Time: 0.03589811100005136
+CPU Time: 0.035869477999999996
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0350.cnf
+Wall Time: 0.022151223999799186
+CPU Time: 0.022138541000000005
+Peak Memory: 203.091796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0351.cnf
+Wall Time: 0.013451154999984283
+CPU Time: 0.013451802999999998
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0352.cnf
+Wall Time: 0.024355000000014115
+CPU Time: 0.024350779000000003
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0353.cnf
+Wall Time: 0.007527703000050678
+CPU Time: 0.007528247
+Peak Memory: 361.7958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0354.cnf
+Wall Time: 0.005738032999943243
+CPU Time: 0.0057319020000000005
+Peak Memory: 242.1708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0355.cnf
+Wall Time: 0.024964281999928062
+CPU Time: 0.024964802
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0356.cnf
+Wall Time: 0.014614178999863725
+CPU Time: 0.014581461999999998
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0357.cnf
+Wall Time: 0.0771286560000135
+CPU Time: 0.077091794
+Peak Memory: 381.896484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0358.cnf
+Wall Time: 0.039190443000052255
+CPU Time: 0.039175535
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0359.cnf
+Wall Time: 0.009043555999824093
+CPU Time: 0.009035182
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-036.cnf
+Wall Time: 0.004805496000017229
+CPU Time: 0.004802137999999999
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0360.cnf
+Wall Time: 0.037010048999945866
+CPU Time: 0.037001238
+Peak Memory: 520.837890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0361.cnf
+Wall Time: 0.008378753999977562
+CPU Time: 0.008378549999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0362.cnf
+Wall Time: 0.009900234999804525
+CPU Time: 0.009893125
+Peak Memory: 480.9990234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0363.cnf
+Wall Time: 0.06994262000011986
+CPU Time: 0.069890147
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0364.cnf
+Wall Time: 0.012304151999842361
+CPU Time: 0.012304434
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0365.cnf
+Wall Time: 0.0043578160000379285
+CPU Time: 0.00435694
+Peak Memory: 202.37109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0366.cnf
+Wall Time: 0.03512857500004429
+CPU Time: 0.035122151
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0367.cnf
+Wall Time: 0.04402582700004132
+CPU Time: 0.043981094
+Peak Memory: 361.7958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0368.cnf
+Wall Time: 0.004284984000150871
+CPU Time: 0.004283801
+Peak Memory: 182.5693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0369.cnf
+Wall Time: 0.0074540359998991335
+CPU Time: 0.007434149999999999
+Peak Memory: 182.9912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-037.cnf
+Wall Time: 0.013218578000078196
+CPU Time: 0.013208102
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0370.cnf
+Wall Time: 0.006558150000046226
+CPU Time: 0.006551087000000001
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0371.cnf
+Wall Time: 0.009952943999905983
+CPU Time: 0.009929232
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0372.cnf
+Wall Time: 0.029608861000042452
+CPU Time: 0.029604928999999995
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0373.cnf
+Wall Time: 0.005915728999980274
+CPU Time: 0.005915772999999999
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0374.cnf
+Wall Time: 0.02077350399986244
+CPU Time: 0.020746094
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0375.cnf
+Wall Time: 0.007327850999899965
+CPU Time: 0.007328391999999998
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0376.cnf
+Wall Time: 0.02667993399995794
+CPU Time: 0.026666275000000003
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0377.cnf
+Wall Time: 0.0074931490000835765
+CPU Time: 0.007493136999999999
+Peak Memory: 381.310546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0378.cnf
+Wall Time: 0.014155796000068221
+CPU Time: 0.014147216
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0379.cnf
+Wall Time: 0.005208232999848406
+CPU Time: 0.005208316999999999
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-038.cnf
+Wall Time: 0.007235633999925994
+CPU Time: 0.007235231
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0380.cnf
+Wall Time: 0.010284022000178084
+CPU Time: 0.010283881
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0381.cnf
+Wall Time: 0.013821243999927901
+CPU Time: 0.013807375000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0382.cnf
+Wall Time: 0.006343856999819764
+CPU Time: 0.006343523999999998
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0383.cnf
+Wall Time: 0.015939647999857698
+CPU Time: 0.015933505
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0384.cnf
+Wall Time: 0.010348975999932009
+CPU Time: 0.010349519
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0385.cnf
+Wall Time: 0.014822903000094811
+CPU Time: 0.014814272000000002
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0386.cnf
+Wall Time: 0.03746270000010554
+CPU Time: 0.037439852999999995
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0387.cnf
+Wall Time: 0.03229671500002951
+CPU Time: 0.032277388000000004
+Peak Memory: 222.958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0388.cnf
+Wall Time: 0.07764229500003239
+CPU Time: 0.077610966
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0389.cnf
+Wall Time: 0.006751637000206756
+CPU Time: 0.0067523079999999985
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-039.cnf
+Wall Time: 0.008700631000010617
+CPU Time: 0.008701082999999998
+Peak Memory: 420.9755859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0390.cnf
+Wall Time: 0.005847032000019681
+CPU Time: 0.005821366
+Peak Memory: 262.107421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0391.cnf
+Wall Time: 0.06310644199993476
+CPU Time: 0.063083794
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0392.cnf
+Wall Time: 0.05752810599983604
+CPU Time: 0.057500574
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0393.cnf
+Wall Time: 0.007749732999855041
+CPU Time: 0.007737776
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0394.cnf
+Wall Time: 0.0039792259999558155
+CPU Time: 0.00397873
+Peak Memory: 162.69921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0395.cnf
+Wall Time: 0.00762733900000967
+CPU Time: 0.007627905000000001
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0396.cnf
+Wall Time: 0.0049121970000669535
+CPU Time: 0.004912197
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0397.cnf
+Wall Time: 0.013787324000077206
+CPU Time: 0.013776795
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0398.cnf
+Wall Time: 0.004150822999918091
+CPU Time: 0.004150193
+Peak Memory: 162.69921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0399.cnf
+Wall Time: 0.06593087100009143
+CPU Time: 0.06593204400000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-04.cnf
+Wall Time: 0.007422651000069891
+CPU Time: 0.0074231459999999985
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-040.cnf
+Wall Time: 0.007015368000111266
+CPU Time: 0.007015251
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0400.cnf
+Wall Time: 0.04248809699993217
+CPU Time: 0.042470038
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0401.cnf
+Wall Time: 0.040656703999957244
+CPU Time: 0.04064518
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0402.cnf
+Wall Time: 0.008209735000036744
+CPU Time: 0.008188077
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0403.cnf
+Wall Time: 0.011009879000084766
+CPU Time: 0.011003516999999999
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0404.cnf
+Wall Time: 0.01103875900003004
+CPU Time: 0.011039586
+Peak Memory: 520.380859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0405.cnf
+Wall Time: 0.023286771000130102
+CPU Time: 0.023275942
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0406.cnf
+Wall Time: 0.009872170999869923
+CPU Time: 0.009862517
+Peak Memory: 480.646484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0407.cnf
+Wall Time: 0.009454332000132126
+CPU Time: 0.009454713
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0408.cnf
+Wall Time: 0.007604866000065158
+CPU Time: 0.007605263999999999
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0409.cnf
+Wall Time: 0.024829250000038883
+CPU Time: 0.024800497999999997
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-041.cnf
+Wall Time: 0.018918491000022186
+CPU Time: 0.018913356
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0410.cnf
+Wall Time: 0.007068470999911369
+CPU Time: 0.007068789000000001
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0411.cnf
+Wall Time: 0.02581663500018294
+CPU Time: 0.02577506
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0412.cnf
+Wall Time: 0.020801620000156618
+CPU Time: 0.02078521
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0413.cnf
+Wall Time: 0.01239531100009117
+CPU Time: 0.012374313999999999
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0414.cnf
+Wall Time: 0.07390603199996804
+CPU Time: 0.073874259
+Peak Memory: 342.162109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0415.cnf
+Wall Time: 0.008002750000059677
+CPU Time: 0.008003597
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0416.cnf
+Wall Time: 0.02008275200000753
+CPU Time: 0.020074575999999997
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0417.cnf
+Wall Time: 0.017611798000189083
+CPU Time: 0.017573451
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0418.cnf
+Wall Time: 0.014962269000079687
+CPU Time: 0.014957694999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0419.cnf
+Wall Time: 0.017605696000146054
+CPU Time: 0.017562614
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-042.cnf
+Wall Time: 0.012055094000061217
+CPU Time: 0.012055819999999998
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0420.cnf
+Wall Time: 0.010862831999929767
+CPU Time: 0.010852097
+Peak Memory: 183.060546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0421.cnf
+Wall Time: 0.005886077000013756
+CPU Time: 0.005885767000000002
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0422.cnf
+Wall Time: 0.006466810999882
+CPU Time: 0.006466189000000001
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0423.cnf
+Wall Time: 0.0052310009998564055
+CPU Time: 0.005231065
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0424.cnf
+Wall Time: 0.011036131000082605
+CPU Time: 0.011031646
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0425.cnf
+Wall Time: 0.02950431799990838
+CPU Time: 0.029498057
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0426.cnf
+Wall Time: 0.003421933000026911
+CPU Time: 0.003420755000000001
+Peak Memory: 162.69921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0427.cnf
+Wall Time: 0.005520391000118252
+CPU Time: 0.005520081000000001
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0428.cnf
+Wall Time: 0.0055722449999393575
+CPU Time: 0.005571514
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0429.cnf
+Wall Time: 0.01628488900018965
+CPU Time: 0.016267
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-043.cnf
+Wall Time: 0.005762602000004335
+CPU Time: 0.005757557999999999
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0430.cnf
+Wall Time: 0.015097982000042975
+CPU Time: 0.015092332
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0431.cnf
+Wall Time: 0.01594234599997435
+CPU Time: 0.015943146000000002
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0432.cnf
+Wall Time: 0.008415570999886768
+CPU Time: 0.00841577
+Peak Memory: 401.177734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0433.cnf
+Wall Time: 0.030746481999813113
+CPU Time: 0.03074758
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0434.cnf
+Wall Time: 0.0068648079998183675
+CPU Time: 0.006855758
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0435.cnf
+Wall Time: 0.05205434899994543
+CPU Time: 0.052034160999999995
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0436.cnf
+Wall Time: 0.02999088399997163
+CPU Time: 0.029965009999999997
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0437.cnf
+Wall Time: 0.009723577000158912
+CPU Time: 0.009722477000000002
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0438.cnf
+Wall Time: 0.013017620000027819
+CPU Time: 0.013017281
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0439.cnf
+Wall Time: 0.010553054999945743
+CPU Time: 0.010553457999999998
+Peak Memory: 460.779296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-044.cnf
+Wall Time: 0.017402920999984417
+CPU Time: 0.017394579
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0440.cnf
+Wall Time: 0.01011166300008881
+CPU Time: 0.010096546
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0441.cnf
+Wall Time: 0.003772791000073994
+CPU Time: 0.003772895
+Peak Memory: 143.31640625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0442.cnf
+Wall Time: 0.02386872800002493
+CPU Time: 0.023842712999999998
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0443.cnf
+Wall Time: 0.038975319000201125
+CPU Time: 0.038965984999999995
+Peak Memory: 362.029296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0444.cnf
+Wall Time: 0.031225359000018216
+CPU Time: 0.031181431000000003
+Peak Memory: 421.630859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0445.cnf
+Wall Time: 0.011496778000037011
+CPU Time: 0.011461402
+Peak Memory: 461.201171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0446.cnf
+Wall Time: 0.020985614999972313
+CPU Time: 0.020955394
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0447.cnf
+Wall Time: 0.010607555999968099
+CPU Time: 0.010592314000000002
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0448.cnf
+Wall Time: 0.020418868999968254
+CPU Time: 0.020334193
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0449.cnf
+Wall Time: 0.008252460999983668
+CPU Time: 0.008252761999999999
+Peak Memory: 381.310546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-045.cnf
+Wall Time: 0.007445017999998527
+CPU Time: 0.00744014
+Peak Memory: 361.30859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0450.cnf
+Wall Time: 0.02713407500004905
+CPU Time: 0.02713479
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0451.cnf
+Wall Time: 0.007394667999960802
+CPU Time: 0.007394899000000002
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0452.cnf
+Wall Time: 0.052825276000021404
+CPU Time: 0.052808232000000004
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0453.cnf
+Wall Time: 0.006339219999972556
+CPU Time: 0.006339266
+Peak Memory: 301.7724609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0454.cnf
+Wall Time: 0.02442276699980539
+CPU Time: 0.024401864000000002
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0455.cnf
+Wall Time: 0.019628519999969285
+CPU Time: 0.019626921
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0456.cnf
+Wall Time: 0.02537693599992963
+CPU Time: 0.025358137999999995
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0457.cnf
+Wall Time: 0.010081386000138082
+CPU Time: 0.010081855
+Peak Memory: 480.646484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0458.cnf
+Wall Time: 0.00757755199992971
+CPU Time: 0.0075776429999999985
+Peak Memory: 361.73046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0459.cnf
+Wall Time: 0.010467803999972602
+CPU Time: 0.010460615
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-046.cnf
+Wall Time: 0.015650389000029463
+CPU Time: 0.01564381
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0460.cnf
+Wall Time: 0.01849348599989753
+CPU Time: 0.018485834
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0461.cnf
+Wall Time: 0.010753552999858584
+CPU Time: 0.010754287000000001
+Peak Memory: 500.935546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0462.cnf
+Wall Time: 0.007208796000213624
+CPU Time: 0.007208504999999999
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0463.cnf
+Wall Time: 0.012520082000037291
+CPU Time: 0.012514877999999998
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0464.cnf
+Wall Time: 0.012201883999978236
+CPU Time: 0.012202395999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0465.cnf
+Wall Time: 0.038148276000129044
+CPU Time: 0.03814063
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0466.cnf
+Wall Time: 0.009914459000128772
+CPU Time: 0.009904336
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0467.cnf
+Wall Time: 0.0604205469999215
+CPU Time: 0.060406743
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0468.cnf
+Wall Time: 0.0067160319999857165
+CPU Time: 0.006715570000000002
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0469.cnf
+Wall Time: 0.0062057170000571205
+CPU Time: 0.006187610000000001
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-047.cnf
+Wall Time: 0.04282304200000908
+CPU Time: 0.04276695900000001
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0470.cnf
+Wall Time: 0.012113968999983626
+CPU Time: 0.012107152
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0471.cnf
+Wall Time: 0.06425734100002956
+CPU Time: 0.064247382
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0472.cnf
+Wall Time: 0.007573625999839351
+CPU Time: 0.007573604999999999
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0473.cnf
+Wall Time: 0.022352186000034635
+CPU Time: 0.022307527
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0474.cnf
+Wall Time: 0.009435106999944765
+CPU Time: 0.009434908999999998
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0475.cnf
+Wall Time: 0.00484689899985824
+CPU Time: 0.0048467879999999994
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0476.cnf
+Wall Time: 0.00507331299991165
+CPU Time: 0.005072690000000001
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0477.cnf
+Wall Time: 0.006835255000169127
+CPU Time: 0.006834640999999999
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0478.cnf
+Wall Time: 0.0709917559997848
+CPU Time: 0.070993753
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0479.cnf
+Wall Time: 0.012371802000188836
+CPU Time: 0.012372081
+Peak Memory: 183.060546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-048.cnf
+Wall Time: 0.008063178000156768
+CPU Time: 0.00806318
+Peak Memory: 381.6630859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0480.cnf
+Wall Time: 0.003946756000004825
+CPU Time: 0.003946170000000002
+Peak Memory: 182.50390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0481.cnf
+Wall Time: 0.005853954000031081
+CPU Time: 0.0058433619999999995
+Peak Memory: 281.9052734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0482.cnf
+Wall Time: 0.007324525999820253
+CPU Time: 0.007322562000000001
+Peak Memory: 361.73046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0483.cnf
+Wall Time: 0.025071255000057135
+CPU Time: 0.025050107000000002
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0484.cnf
+Wall Time: 0.008276195999997071
+CPU Time: 0.008269361999999999
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0485.cnf
+Wall Time: 0.024165734000007433
+CPU Time: 0.024151265
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0486.cnf
+Wall Time: 0.05357255500007341
+CPU Time: 0.053538014
+Peak Memory: 322.294921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0487.cnf
+Wall Time: 0.007172514000103547
+CPU Time: 0.007172597000000001
+Peak Memory: 361.30859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0488.cnf
+Wall Time: 0.009872967999854154
+CPU Time: 0.009865284
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0489.cnf
+Wall Time: 0.03354072199999791
+CPU Time: 0.033511579
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-049.cnf
+Wall Time: 0.05550404099994921
+CPU Time: 0.055492032999999996
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0490.cnf
+Wall Time: 0.01616162899995288
+CPU Time: 0.016151482999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0491.cnf
+Wall Time: 0.01838114600013796
+CPU Time: 0.018363355999999997
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0492.cnf
+Wall Time: 0.009492166999962137
+CPU Time: 0.009493180000000002
+Peak Memory: 440.912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0493.cnf
+Wall Time: 0.010911618999898565
+CPU Time: 0.010911546000000001
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0494.cnf
+Wall Time: 0.03161087799981033
+CPU Time: 0.031611618
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0495.cnf
+Wall Time: 0.0071640189999016
+CPU Time: 0.007163481000000001
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0496.cnf
+Wall Time: 0.0057112839999717835
+CPU Time: 0.005711028999999999
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0497.cnf
+Wall Time: 0.06125813099993138
+CPU Time: 0.061230110000000004
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0498.cnf
+Wall Time: 0.009871283999927982
+CPU Time: 0.009871655
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0499.cnf
+Wall Time: 0.006451643999980661
+CPU Time: 0.00645076
+Peak Memory: 163.1865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-05.cnf
+Wall Time: 0.008088346000022284
+CPU Time: 0.008087991
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-050.cnf
+Wall Time: 0.024570743999902334
+CPU Time: 0.024564866999999997
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0500.cnf
+Wall Time: 0.029057898000019122
+CPU Time: 0.029044361000000005
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0501.cnf
+Wall Time: 0.022492650000003778
+CPU Time: 0.022489430999999997
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0502.cnf
+Wall Time: 0.039125059000070905
+CPU Time: 0.039086584
+Peak Memory: 302.427734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0503.cnf
+Wall Time: 0.008464675000141142
+CPU Time: 0.008456376
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0504.cnf
+Wall Time: 0.005879754000034154
+CPU Time: 0.005879515999999998
+Peak Memory: 262.107421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0505.cnf
+Wall Time: 0.013190097999995487
+CPU Time: 0.013167915
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0506.cnf
+Wall Time: 0.00842247699984
+CPU Time: 0.008422013
+Peak Memory: 420.9755859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0507.cnf
+Wall Time: 0.04779601099994579
+CPU Time: 0.047752805
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0508.cnf
+Wall Time: 0.007087634000072285
+CPU Time: 0.007088300999999998
+Peak Memory: 341.44140625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0509.cnf
+Wall Time: 0.005546518000073775
+CPU Time: 0.005546442
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-051.cnf
+Wall Time: 0.006379139000046052
+CPU Time: 0.006379369999999999
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0510.cnf
+Wall Time: 0.026591055999915625
+CPU Time: 0.026580963
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0511.cnf
+Wall Time: 0.01158256300004723
+CPU Time: 0.011583382
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0512.cnf
+Wall Time: 0.007315839999819218
+CPU Time: 0.007316198000000001
+Peak Memory: 381.17578125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0513.cnf
+Wall Time: 0.030790696999929423
+CPU Time: 0.030753162
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0514.cnf
+Wall Time: 0.020880004000218833
+CPU Time: 0.020880407000000004
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0515.cnf
+Wall Time: 0.012277598000082435
+CPU Time: 0.012277660000000001
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0516.cnf
+Wall Time: 0.0069248190000053
+CPU Time: 0.006918030999999998
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0517.cnf
+Wall Time: 0.014511080999909609
+CPU Time: 0.01450383
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0518.cnf
+Wall Time: 0.005465330999868456
+CPU Time: 0.005465109000000001
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0519.cnf
+Wall Time: 0.0073811520001072495
+CPU Time: 0.0073818020000000015
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-052.cnf
+Wall Time: 0.004816749999918102
+CPU Time: 0.004816502
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0520.cnf
+Wall Time: 0.040315797999937786
+CPU Time: 0.040276372
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0521.cnf
+Wall Time: 0.010506668000061836
+CPU Time: 0.010507257
+Peak Memory: 520.380859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0522.cnf
+Wall Time: 0.01831788399999823
+CPU Time: 0.018310644
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0523.cnf
+Wall Time: 0.005433205000144881
+CPU Time: 0.005426854000000002
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0524.cnf
+Wall Time: 0.028544568999905096
+CPU Time: 0.028516336000000003
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0525.cnf
+Wall Time: 0.01303561500003525
+CPU Time: 0.013020287
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0526.cnf
+Wall Time: 0.007057026999973459
+CPU Time: 0.007056876
+Peak Memory: 183.060546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0527.cnf
+Wall Time: 0.010220382999932554
+CPU Time: 0.010220604999999999
+Peak Memory: 500.548828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0528.cnf
+Wall Time: 0.007919438000044465
+CPU Time: 0.007919887
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0529.cnf
+Wall Time: 0.006966669999883379
+CPU Time: 0.006966938999999998
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-053.cnf
+Wall Time: 0.05854199899999912
+CPU Time: 0.058518086999999996
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0530.cnf
+Wall Time: 0.012833717999910732
+CPU Time: 0.012833787999999999
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0531.cnf
+Wall Time: 0.014797027999975398
+CPU Time: 0.014787866
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0532.cnf
+Wall Time: 0.005831435999880341
+CPU Time: 0.005831063999999999
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0533.cnf
+Wall Time: 0.006337303999998767
+CPU Time: 0.006337137
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0534.cnf
+Wall Time: 0.010987648999844168
+CPU Time: 0.010987674
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0535.cnf
+Wall Time: 0.007345917999828089
+CPU Time: 0.007347014000000001
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0536.cnf
+Wall Time: 0.00509003299998767
+CPU Time: 0.005085823999999999
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0537.cnf
+Wall Time: 0.007184427000083815
+CPU Time: 0.007184382999999999
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0538.cnf
+Wall Time: 0.009903048000069248
+CPU Time: 0.009895599
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0539.cnf
+Wall Time: 0.00503921800009266
+CPU Time: 0.005023671
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-054.cnf
+Wall Time: 0.005780642999980046
+CPU Time: 0.005779701000000002
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0540.cnf
+Wall Time: 0.0059454760000789975
+CPU Time: 0.005945216999999999
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0541.cnf
+Wall Time: 0.004401559999905658
+CPU Time: 0.004400991999999999
+Peak Memory: 202.37109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0542.cnf
+Wall Time: 0.007062898000185669
+CPU Time: 0.007062592000000001
+Peak Memory: 322.091796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0543.cnf
+Wall Time: 0.010847069999954329
+CPU Time: 0.010848258000000001
+Peak Memory: 500.935546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0544.cnf
+Wall Time: 0.005671668000104546
+CPU Time: 0.005671230000000001
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0545.cnf
+Wall Time: 0.006040635999852384
+CPU Time: 0.006041279
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0546.cnf
+Wall Time: 0.03158759799998734
+CPU Time: 0.031589217
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0547.cnf
+Wall Time: 0.013897656999915853
+CPU Time: 0.013897509
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0548.cnf
+Wall Time: 0.01986879600008251
+CPU Time: 0.019861347
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0549.cnf
+Wall Time: 0.010701498000116771
+CPU Time: 0.010695592
+Peak Memory: 500.513671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-055.cnf
+Wall Time: 0.03270259700002498
+CPU Time: 0.032672652999999996
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0550.cnf
+Wall Time: 0.012572180999995908
+CPU Time: 0.01255645
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0551.cnf
+Wall Time: 0.006195119000039995
+CPU Time: 0.0061956749999999994
+Peak Memory: 281.974609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0552.cnf
+Wall Time: 0.036206063000008726
+CPU Time: 0.036177062
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0553.cnf
+Wall Time: 0.009278849000111222
+CPU Time: 0.009278546
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0554.cnf
+Wall Time: 0.007701342000018485
+CPU Time: 0.007701116999999999
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0555.cnf
+Wall Time: 0.005049092000035671
+CPU Time: 0.005048930000000002
+Peak Memory: 182.9912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0556.cnf
+Wall Time: 0.0250709019999249
+CPU Time: 0.025046793999999997
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0557.cnf
+Wall Time: 0.03747387299995353
+CPU Time: 0.037462274
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0558.cnf
+Wall Time: 0.03660567299994
+CPU Time: 0.036586321
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0559.cnf
+Wall Time: 0.012370259999897826
+CPU Time: 0.012359272
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-056.cnf
+Wall Time: 0.006176719999984925
+CPU Time: 0.006176599000000001
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0560.cnf
+Wall Time: 0.022486677000188138
+CPU Time: 0.022480053
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0561.cnf
+Wall Time: 0.015642745999912222
+CPU Time: 0.015639939
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0562.cnf
+Wall Time: 0.00844818300015504
+CPU Time: 0.008436929
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0563.cnf
+Wall Time: 0.027273004000107903
+CPU Time: 0.027263852
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0564.cnf
+Wall Time: 0.006335865999972157
+CPU Time: 0.006314081999999999
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0565.cnf
+Wall Time: 0.014208059999873512
+CPU Time: 0.014207125999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0566.cnf
+Wall Time: 0.009377848999974958
+CPU Time: 0.009377848999999999
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0567.cnf
+Wall Time: 0.0068598719999499735
+CPU Time: 0.006859709
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0568.cnf
+Wall Time: 0.005888874999982363
+CPU Time: 0.005889353999999999
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0569.cnf
+Wall Time: 0.006718624999848544
+CPU Time: 0.006718588000000001
+Peak Memory: 182.9912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-057.cnf
+Wall Time: 0.007869677000144293
+CPU Time: 0.007870201
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0570.cnf
+Wall Time: 0.004094753999879686
+CPU Time: 0.004089611
+Peak Memory: 182.50390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0571.cnf
+Wall Time: 0.005199032000064108
+CPU Time: 0.005198431000000002
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0572.cnf
+Wall Time: 0.026142361000211167
+CPU Time: 0.026122944000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0573.cnf
+Wall Time: 0.014949598999919544
+CPU Time: 0.014928845999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0574.cnf
+Wall Time: 0.027747543000032238
+CPU Time: 0.027740692000000004
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0575.cnf
+Wall Time: 0.045495707999862134
+CPU Time: 0.045489232000000004
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0576.cnf
+Wall Time: 0.0032492460002231383
+CPU Time: 0.0032491689999999997
+Peak Memory: 162.69921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0577.cnf
+Wall Time: 0.07384664300002441
+CPU Time: 0.07381288
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0578.cnf
+Wall Time: 0.004458289000012883
+CPU Time: 0.004457337000000002
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0579.cnf
+Wall Time: 0.013060844999927212
+CPU Time: 0.013061225000000001
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-058.cnf
+Wall Time: 0.012204483000004984
+CPU Time: 0.012192095000000002
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0580.cnf
+Wall Time: 0.05060486799993669
+CPU Time: 0.050570888
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0581.cnf
+Wall Time: 0.005534864000082962
+CPU Time: 0.005535381000000001
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0582.cnf
+Wall Time: 0.01555308399997557
+CPU Time: 0.015552810000000002
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0583.cnf
+Wall Time: 0.005931517999897551
+CPU Time: 0.005931142
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0584.cnf
+Wall Time: 0.008335254000030545
+CPU Time: 0.008315001999999998
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0585.cnf
+Wall Time: 0.028971683999998277
+CPU Time: 0.028940856
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0586.cnf
+Wall Time: 0.016250849000016387
+CPU Time: 0.016244830000000002
+Peak Memory: 222.958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0587.cnf
+Wall Time: 0.004036103999851548
+CPU Time: 0.004036662000000002
+Peak Memory: 182.50390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0588.cnf
+Wall Time: 0.012579112000139503
+CPU Time: 0.01257711
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0589.cnf
+Wall Time: 0.012743467999825953
+CPU Time: 0.012743527000000001
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-059.cnf
+Wall Time: 0.011068057999864322
+CPU Time: 0.011047695
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0590.cnf
+Wall Time: 0.01947946699988279
+CPU Time: 0.019465429000000003
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0591.cnf
+Wall Time: 0.011162356999875556
+CPU Time: 0.011162924999999999
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0592.cnf
+Wall Time: 0.01009219699994901
+CPU Time: 0.010092618999999999
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0593.cnf
+Wall Time: 0.008718529000134367
+CPU Time: 0.008711077000000001
+Peak Memory: 421.044921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0594.cnf
+Wall Time: 0.009715849000031085
+CPU Time: 0.009707043000000002
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0595.cnf
+Wall Time: 0.02123734500014507
+CPU Time: 0.021230611000000003
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0596.cnf
+Wall Time: 0.008329929999945307
+CPU Time: 0.008319103999999999
+Peak Memory: 401.177734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0597.cnf
+Wall Time: 0.005377439999847411
+CPU Time: 0.0053768719999999996
+Peak Memory: 262.0380859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0598.cnf
+Wall Time: 0.011590899000111676
+CPU Time: 0.011583148
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0599.cnf
+Wall Time: 0.0067791690000831295
+CPU Time: 0.006779046
+Peak Memory: 361.30859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-06.cnf
+Wall Time: 0.036755686000105925
+CPU Time: 0.03672896
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-060.cnf
+Wall Time: 0.03555286100004196
+CPU Time: 0.035534205
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0600.cnf
+Wall Time: 0.010324274000140576
+CPU Time: 0.010315646000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0601.cnf
+Wall Time: 0.010531868000043687
+CPU Time: 0.010531997000000001
+Peak Memory: 341.9287109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0602.cnf
+Wall Time: 0.008491790000107358
+CPU Time: 0.00848679
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0603.cnf
+Wall Time: 0.005449818999977651
+CPU Time: 0.005449577000000001
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0604.cnf
+Wall Time: 0.010835477999989962
+CPU Time: 0.010830884
+Peak Memory: 441.333984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0605.cnf
+Wall Time: 0.007379533999937848
+CPU Time: 0.007379556000000002
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0606.cnf
+Wall Time: 0.0057991950000086945
+CPU Time: 0.005792878000000001
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0607.cnf
+Wall Time: 0.0066125159999046446
+CPU Time: 0.006611902999999999
+Peak Memory: 321.6396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0608.cnf
+Wall Time: 0.011299065999992308
+CPU Time: 0.011296431
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0609.cnf
+Wall Time: 0.011225031999856583
+CPU Time: 0.01121484
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-061.cnf
+Wall Time: 0.007865019000064422
+CPU Time: 0.007861802000000001
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0610.cnf
+Wall Time: 0.012551750000056927
+CPU Time: 0.012536060999999998
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0611.cnf
+Wall Time: 0.007805563000147231
+CPU Time: 0.007805748999999999
+Peak Memory: 361.3740234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0612.cnf
+Wall Time: 0.029614249999895037
+CPU Time: 0.029615135
+Peak Memory: 222.958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0613.cnf
+Wall Time: 0.044298562999983915
+CPU Time: 0.044293921
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0614.cnf
+Wall Time: 0.012483521999911318
+CPU Time: 0.012484619
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0615.cnf
+Wall Time: 0.030497756999920966
+CPU Time: 0.03049101
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0616.cnf
+Wall Time: 0.008206138000105057
+CPU Time: 0.008191145
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0617.cnf
+Wall Time: 0.01582398799996554
+CPU Time: 0.015813674
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0618.cnf
+Wall Time: 0.015721594999831723
+CPU Time: 0.015722285000000003
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0619.cnf
+Wall Time: 0.011266361000025427
+CPU Time: 0.011261823999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-062.cnf
+Wall Time: 0.007176912999966589
+CPU Time: 0.007176611000000001
+Peak Memory: 361.30859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0620.cnf
+Wall Time: 0.009961802999896463
+CPU Time: 0.00996214
+Peak Memory: 183.060546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0621.cnf
+Wall Time: 0.01711060900015582
+CPU Time: 0.01711154
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0622.cnf
+Wall Time: 0.0540008929999658
+CPU Time: 0.053971994
+Peak Memory: 302.427734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0623.cnf
+Wall Time: 0.006484510000063892
+CPU Time: 0.006481601
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0624.cnf
+Wall Time: 0.008165289999851666
+CPU Time: 0.00816506
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0625.cnf
+Wall Time: 0.014871573000164062
+CPU Time: 0.01485399
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0626.cnf
+Wall Time: 0.019215575999851353
+CPU Time: 0.019195209000000005
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0627.cnf
+Wall Time: 0.006987200000139637
+CPU Time: 0.006987559000000001
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0628.cnf
+Wall Time: 0.010255898000195884
+CPU Time: 0.010251010000000001
+Peak Memory: 441.333984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0629.cnf
+Wall Time: 0.027896478999991814
+CPU Time: 0.027880376000000002
+Peak Memory: 222.958984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-063.cnf
+Wall Time: 0.009843125000088548
+CPU Time: 0.009834257999999999
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0630.cnf
+Wall Time: 0.008985219999885885
+CPU Time: 0.008986198999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0631.cnf
+Wall Time: 0.0076092159999916475
+CPU Time: 0.007607995999999999
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0632.cnf
+Wall Time: 0.004626113000085752
+CPU Time: 0.004618779
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0633.cnf
+Wall Time: 0.04716792600015651
+CPU Time: 0.047132545
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0634.cnf
+Wall Time: 0.016623324999955003
+CPU Time: 0.016620998999999997
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0635.cnf
+Wall Time: 0.006543260000171358
+CPU Time: 0.006543109
+Peak Memory: 321.57421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0636.cnf
+Wall Time: 0.012149866999834558
+CPU Time: 0.012123539000000001
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0637.cnf
+Wall Time: 0.016535779000150796
+CPU Time: 0.016510439000000002
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0638.cnf
+Wall Time: 0.02107248999982403
+CPU Time: 0.021069869000000005
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0639.cnf
+Wall Time: 0.008293383999898651
+CPU Time: 0.008274654
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-064.cnf
+Wall Time: 0.030140249999931257
+CPU Time: 0.030123839
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0640.cnf
+Wall Time: 0.009710659000120359
+CPU Time: 0.009694211999999999
+Peak Memory: 461.201171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0641.cnf
+Wall Time: 0.006651640999962183
+CPU Time: 0.006651269999999999
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0642.cnf
+Wall Time: 0.02328422400000818
+CPU Time: 0.023264835999999997
+Peak Memory: 342.162109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0643.cnf
+Wall Time: 0.006120184000110385
+CPU Time: 0.006120285000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0644.cnf
+Wall Time: 0.006378802999961408
+CPU Time: 0.006370039000000001
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0645.cnf
+Wall Time: 0.006066647000125158
+CPU Time: 0.006056585999999999
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0646.cnf
+Wall Time: 0.009923554999886619
+CPU Time: 0.009923699000000001
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0647.cnf
+Wall Time: 0.017173423000031107
+CPU Time: 0.017164164000000003
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0648.cnf
+Wall Time: 0.04035331899990524
+CPU Time: 0.040332143
+Peak Memory: 342.162109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0649.cnf
+Wall Time: 0.007303230999923471
+CPU Time: 0.007303596000000001
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-065.cnf
+Wall Time: 0.007668585999908828
+CPU Time: 0.007645107000000002
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0650.cnf
+Wall Time: 0.01778652100006184
+CPU Time: 0.017775592
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0651.cnf
+Wall Time: 0.018146999999999025
+CPU Time: 0.018112875
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0652.cnf
+Wall Time: 0.04013801000019157
+CPU Time: 0.040117991
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0653.cnf
+Wall Time: 0.03667601100005413
+CPU Time: 0.03666495
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0654.cnf
+Wall Time: 0.005954174000180501
+CPU Time: 0.005963805999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0655.cnf
+Wall Time: 0.015922312999919086
+CPU Time: 0.015914181
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0656.cnf
+Wall Time: 0.005460923000100593
+CPU Time: 0.005464847
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0657.cnf
+Wall Time: 0.008719017000203166
+CPU Time: 0.008718755000000002
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0658.cnf
+Wall Time: 0.011801079999941066
+CPU Time: 0.011801116999999998
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0659.cnf
+Wall Time: 0.007728455000005852
+CPU Time: 0.007722339000000002
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-066.cnf
+Wall Time: 0.021000238999931753
+CPU Time: 0.020984053
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0660.cnf
+Wall Time: 0.023858947999997326
+CPU Time: 0.023838157000000002
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0661.cnf
+Wall Time: 0.00885963499990794
+CPU Time: 0.008860686000000001
+Peak Memory: 421.044921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0662.cnf
+Wall Time: 0.007942989000184753
+CPU Time: 0.007938960000000002
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0663.cnf
+Wall Time: 0.004765876999954344
+CPU Time: 0.004761439000000001
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0664.cnf
+Wall Time: 0.011212790999934441
+CPU Time: 0.011206612
+Peak Memory: 202.8583984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0665.cnf
+Wall Time: 0.02226729999983945
+CPU Time: 0.022255260000000002
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0666.cnf
+Wall Time: 0.02991659899998922
+CPU Time: 0.029900163
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0667.cnf
+Wall Time: 0.05701347599983819
+CPU Time: 0.056992285000000004
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0668.cnf
+Wall Time: 0.007644138999921779
+CPU Time: 0.007640986000000001
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0669.cnf
+Wall Time: 0.007863437999958478
+CPU Time: 0.007852933000000001
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-067.cnf
+Wall Time: 0.043746725999881164
+CPU Time: 0.043720981
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0670.cnf
+Wall Time: 0.027468984999813983
+CPU Time: 0.027464637000000004
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0671.cnf
+Wall Time: 0.008218920999979673
+CPU Time: 0.008214644999999998
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0672.cnf
+Wall Time: 0.005610592000039105
+CPU Time: 0.0055978159999999985
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0673.cnf
+Wall Time: 0.012336544999925536
+CPU Time: 0.012306834000000001
+Peak Memory: 341.9287109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0674.cnf
+Wall Time: 0.012389619000032326
+CPU Time: 0.012371058
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0675.cnf
+Wall Time: 0.038142912000012075
+CPU Time: 0.038124019999999995
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0676.cnf
+Wall Time: 0.011801834999914718
+CPU Time: 0.011764622
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0677.cnf
+Wall Time: 0.07074231699994016
+CPU Time: 0.070702974
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0678.cnf
+Wall Time: 0.01302124900007584
+CPU Time: 0.013010362
+Peak Memory: 500.935546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0679.cnf
+Wall Time: 0.018408292000003712
+CPU Time: 0.018408553
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-068.cnf
+Wall Time: 0.011879395000050863
+CPU Time: 0.011867451000000001
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0680.cnf
+Wall Time: 0.03903749099981724
+CPU Time: 0.039032388
+Peak Memory: 540.833984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0681.cnf
+Wall Time: 0.019790371999988565
+CPU Time: 0.019780700999999998
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0682.cnf
+Wall Time: 0.00706594899997981
+CPU Time: 0.007065623
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0683.cnf
+Wall Time: 0.03357750300006046
+CPU Time: 0.033563678
+Peak Memory: 202.8583984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0684.cnf
+Wall Time: 0.01100302300005751
+CPU Time: 0.011003500999999999
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0685.cnf
+Wall Time: 0.0045424489999277284
+CPU Time: 0.004542122999999999
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0686.cnf
+Wall Time: 0.01010652900004061
+CPU Time: 0.010107075000000002
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0687.cnf
+Wall Time: 0.004326811000055386
+CPU Time: 0.004326389999999999
+Peak Memory: 202.37109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0688.cnf
+Wall Time: 0.011238821999995707
+CPU Time: 0.011238488999999999
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0689.cnf
+Wall Time: 0.04982120199997553
+CPU Time: 0.049779233000000006
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-069.cnf
+Wall Time: 0.006511576000093555
+CPU Time: 0.006501161
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0690.cnf
+Wall Time: 0.0150794329999826
+CPU Time: 0.015071508
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0691.cnf
+Wall Time: 0.004590752000012799
+CPU Time: 0.004590559000000001
+Peak Memory: 202.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0692.cnf
+Wall Time: 0.017747574999930293
+CPU Time: 0.017741240999999998
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0693.cnf
+Wall Time: 0.05867727899999409
+CPU Time: 0.058658127000000004
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0694.cnf
+Wall Time: 0.008575188999884631
+CPU Time: 0.008564354
+Peak Memory: 440.912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0695.cnf
+Wall Time: 0.01242264300003626
+CPU Time: 0.012409721
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0696.cnf
+Wall Time: 0.010391093999942314
+CPU Time: 0.010397641000000001
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0697.cnf
+Wall Time: 0.005180341000141198
+CPU Time: 0.005180253999999999
+Peak Memory: 261.97265625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0698.cnf
+Wall Time: 0.010166257000037149
+CPU Time: 0.010154079
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0699.cnf
+Wall Time: 0.006583652000017537
+CPU Time: 0.006584013999999999
+Peak Memory: 281.974609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-07.cnf
+Wall Time: 0.007267876000014439
+CPU Time: 0.007253807999999999
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-070.cnf
+Wall Time: 0.008495911999943928
+CPU Time: 0.00848601
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0700.cnf
+Wall Time: 0.014728921999903832
+CPU Time: 0.014715734
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0701.cnf
+Wall Time: 0.0074792830000660615
+CPU Time: 0.007479653999999999
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0702.cnf
+Wall Time: 0.019177935000016078
+CPU Time: 0.019149148999999997
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0703.cnf
+Wall Time: 0.019838031000062983
+CPU Time: 0.019831569
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0704.cnf
+Wall Time: 0.023663560000159123
+CPU Time: 0.023644287
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0705.cnf
+Wall Time: 0.008061289000124816
+CPU Time: 0.008056098
+Peak Memory: 381.310546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0706.cnf
+Wall Time: 0.009707052000067051
+CPU Time: 0.009695797999999999
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0707.cnf
+Wall Time: 0.016504479999866817
+CPU Time: 0.016492415000000003
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0708.cnf
+Wall Time: 0.0476825819998794
+CPU Time: 0.047652488
+Peak Memory: 282.560546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0709.cnf
+Wall Time: 0.007825424999964525
+CPU Time: 0.007826044
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-071.cnf
+Wall Time: 0.007643769999958749
+CPU Time: 0.007640365
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0710.cnf
+Wall Time: 0.032730489999948986
+CPU Time: 0.032698634000000004
+Peak Memory: 203.091796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0711.cnf
+Wall Time: 0.004450682999959099
+CPU Time: 0.004450334
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0712.cnf
+Wall Time: 0.026126407999981893
+CPU Time: 0.026124162
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0713.cnf
+Wall Time: 0.02238466700009667
+CPU Time: 0.022366137
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0714.cnf
+Wall Time: 0.021193244999949457
+CPU Time: 0.021183639000000004
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0715.cnf
+Wall Time: 0.03739996300009807
+CPU Time: 0.03736767
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0716.cnf
+Wall Time: 0.0056167729999287985
+CPU Time: 0.005616670000000001
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0717.cnf
+Wall Time: 0.042567005000137215
+CPU Time: 0.042543901
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0718.cnf
+Wall Time: 0.02048671500006094
+CPU Time: 0.020469
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0719.cnf
+Wall Time: 0.007626786999935575
+CPU Time: 0.007627618000000001
+Peak Memory: 381.17578125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-072.cnf
+Wall Time: 0.01030060199991567
+CPU Time: 0.010287253
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0720.cnf
+Wall Time: 0.005203026999879512
+CPU Time: 0.005202966
+Peak Memory: 182.92578125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0721.cnf
+Wall Time: 0.045152996999831885
+CPU Time: 0.04515391
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0722.cnf
+Wall Time: 0.006589372999997067
+CPU Time: 0.006589385
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0723.cnf
+Wall Time: 0.008361122999986037
+CPU Time: 0.008351596999999999
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0724.cnf
+Wall Time: 0.006216722000090158
+CPU Time: 0.006216942999999999
+Peak Memory: 281.974609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0725.cnf
+Wall Time: 0.008538040000075853
+CPU Time: 0.008533885000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0726.cnf
+Wall Time: 0.007057525999925929
+CPU Time: 0.007057332999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0727.cnf
+Wall Time: 0.012784396999904857
+CPU Time: 0.012785012000000002
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0728.cnf
+Wall Time: 0.01699355200003083
+CPU Time: 0.016986925
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0729.cnf
+Wall Time: 0.04580229499993038
+CPU Time: 0.045768199
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-073.cnf
+Wall Time: 0.08408345199995892
+CPU Time: 0.084074937
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0730.cnf
+Wall Time: 0.007395983999913369
+CPU Time: 0.007390747
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0731.cnf
+Wall Time: 0.023229041999911715
+CPU Time: 0.023198669999999998
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0732.cnf
+Wall Time: 0.03179693800007044
+CPU Time: 0.031789162
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0733.cnf
+Wall Time: 0.011004287999867302
+CPU Time: 0.010992025
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0734.cnf
+Wall Time: 0.0071126370000911265
+CPU Time: 0.007103418
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0735.cnf
+Wall Time: 0.0036888469999212248
+CPU Time: 0.003689197
+Peak Memory: 163.12109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0736.cnf
+Wall Time: 0.012739292999867757
+CPU Time: 0.012709344000000001
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0737.cnf
+Wall Time: 0.012743628000180252
+CPU Time: 0.012743969999999999
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0738.cnf
+Wall Time: 0.0141010570000617
+CPU Time: 0.014068243999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0739.cnf
+Wall Time: 0.01417199200000141
+CPU Time: 0.014161422
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-074.cnf
+Wall Time: 0.049973372999829735
+CPU Time: 0.049906328
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0740.cnf
+Wall Time: 0.004816785999992135
+CPU Time: 0.004813194
+Peak Memory: 163.1865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0741.cnf
+Wall Time: 0.036854946000175914
+CPU Time: 0.036833778
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0742.cnf
+Wall Time: 0.008184051000171166
+CPU Time: 0.008185216
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0743.cnf
+Wall Time: 0.01872888499997316
+CPU Time: 0.018729373
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0744.cnf
+Wall Time: 0.006555075999813198
+CPU Time: 0.006555784
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0745.cnf
+Wall Time: 0.049590219000037905
+CPU Time: 0.04958311
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0746.cnf
+Wall Time: 0.011190172999931747
+CPU Time: 0.011176891999999999
+Peak Memory: 540.669921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0747.cnf
+Wall Time: 0.00961738000000878
+CPU Time: 0.009611342999999998
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0748.cnf
+Wall Time: 0.006697684000073423
+CPU Time: 0.006698199
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0749.cnf
+Wall Time: 0.005151996999984476
+CPU Time: 0.005152085000000001
+Peak Memory: 242.1708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-075.cnf
+Wall Time: 0.004387573000030898
+CPU Time: 0.004387024
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0750.cnf
+Wall Time: 0.006841509999958362
+CPU Time: 0.006841468999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0751.cnf
+Wall Time: 0.005427420999922106
+CPU Time: 0.005426824
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0752.cnf
+Wall Time: 0.01336401699995804
+CPU Time: 0.013364818
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0753.cnf
+Wall Time: 0.013484803999972428
+CPU Time: 0.013478683000000002
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0754.cnf
+Wall Time: 0.008337630999903922
+CPU Time: 0.008337600999999998
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0755.cnf
+Wall Time: 0.007742933000145058
+CPU Time: 0.007721954999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0756.cnf
+Wall Time: 0.023089810000101352
+CPU Time: 0.023066861999999997
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0757.cnf
+Wall Time: 0.010414512000124887
+CPU Time: 0.010392118
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0758.cnf
+Wall Time: 0.005057633999967948
+CPU Time: 0.005057328
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0759.cnf
+Wall Time: 0.04286304600009316
+CPU Time: 0.042864387999999996
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-076.cnf
+Wall Time: 0.004988678000017899
+CPU Time: 0.004987861
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0760.cnf
+Wall Time: 0.03304410999999163
+CPU Time: 0.033007691
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0761.cnf
+Wall Time: 0.04059239599996545
+CPU Time: 0.040565706
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0762.cnf
+Wall Time: 0.032509410000102434
+CPU Time: 0.032501634
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0763.cnf
+Wall Time: 0.016864789000010205
+CPU Time: 0.016832677
+Peak Memory: 341.9287109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0764.cnf
+Wall Time: 0.01643874399997003
+CPU Time: 0.016413643
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0765.cnf
+Wall Time: 0.024925758999870595
+CPU Time: 0.0248895
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0766.cnf
+Wall Time: 0.009064354000202002
+CPU Time: 0.009065592
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0767.cnf
+Wall Time: 0.013394188000120266
+CPU Time: 0.013386235000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0768.cnf
+Wall Time: 0.004067417999976897
+CPU Time: 0.004066946
+Peak Memory: 182.92578125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0769.cnf
+Wall Time: 0.006458612999949764
+CPU Time: 0.006458414000000001
+Peak Memory: 301.7724609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-077.cnf
+Wall Time: 0.016072094000037396
+CPU Time: 0.016073321
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0770.cnf
+Wall Time: 0.01043781500015939
+CPU Time: 0.010439012000000001
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0771.cnf
+Wall Time: 0.0367859809998663
+CPU Time: 0.03676678
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0772.cnf
+Wall Time: 0.031058473000030062
+CPU Time: 0.031033005000000002
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0773.cnf
+Wall Time: 0.037927562999811926
+CPU Time: 0.037901027999999996
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0774.cnf
+Wall Time: 0.056293568999990384
+CPU Time: 0.05627979
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0775.cnf
+Wall Time: 0.00736101300003611
+CPU Time: 0.007361197000000002
+Peak Memory: 341.576171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0776.cnf
+Wall Time: 0.014710221000086676
+CPU Time: 0.014710842
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0777.cnf
+Wall Time: 0.006423985999845172
+CPU Time: 0.006423844999999999
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0778.cnf
+Wall Time: 0.013647802999912528
+CPU Time: 0.013641628
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0779.cnf
+Wall Time: 0.025774725000019316
+CPU Time: 0.025771771000000002
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-078.cnf
+Wall Time: 0.011332132000006823
+CPU Time: 0.011332011999999999
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0780.cnf
+Wall Time: 0.004440338999984306
+CPU Time: 0.004440205999999999
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0781.cnf
+Wall Time: 0.009039723000114464
+CPU Time: 0.009037227
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0782.cnf
+Wall Time: 0.0033487099999547354
+CPU Time: 0.0033478330000000014
+Peak Memory: 162.69921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0783.cnf
+Wall Time: 0.041969662999918
+CPU Time: 0.04193267
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0784.cnf
+Wall Time: 0.007053640000094674
+CPU Time: 0.0070539689999999985
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0785.cnf
+Wall Time: 0.014676557000029788
+CPU Time: 0.014663741000000001
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0786.cnf
+Wall Time: 0.01703909000002568
+CPU Time: 0.017035936
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0787.cnf
+Wall Time: 0.004267178999953103
+CPU Time: 0.004266541
+Peak Memory: 202.37109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0788.cnf
+Wall Time: 0.044403609000028155
+CPU Time: 0.044366809
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0789.cnf
+Wall Time: 0.050468033000015566
+CPU Time: 0.050449545000000005
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-079.cnf
+Wall Time: 0.007984426999882999
+CPU Time: 0.007984689
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0790.cnf
+Wall Time: 0.006251712999983283
+CPU Time: 0.0062243
+Peak Memory: 202.8583984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0791.cnf
+Wall Time: 0.04150763600000573
+CPU Time: 0.041486344
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0792.cnf
+Wall Time: 0.0073726450000322075
+CPU Time: 0.007367285000000001
+Peak Memory: 341.9287109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0793.cnf
+Wall Time: 0.00604106699984186
+CPU Time: 0.006040584
+Peak Memory: 281.974609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0794.cnf
+Wall Time: 0.00510237399998914
+CPU Time: 0.005102141000000001
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0795.cnf
+Wall Time: 0.03485431299986885
+CPU Time: 0.034838962
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0796.cnf
+Wall Time: 0.026495222999983525
+CPU Time: 0.026476562000000002
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0797.cnf
+Wall Time: 0.005906077999952686
+CPU Time: 0.005906211999999999
+Peak Memory: 281.974609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0798.cnf
+Wall Time: 0.0067332319999877654
+CPU Time: 0.006733073000000001
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0799.cnf
+Wall Time: 0.026415990000032252
+CPU Time: 0.026403438
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-08.cnf
+Wall Time: 0.0035083810000742233
+CPU Time: 0.0035078769999999995
+Peak Memory: 143.31640625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-080.cnf
+Wall Time: 0.006057757999997193
+CPU Time: 0.006057367000000001
+Peak Memory: 281.974609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0800.cnf
+Wall Time: 0.007207523000033689
+CPU Time: 0.007197316999999998
+Peak Memory: 341.5068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0801.cnf
+Wall Time: 0.005275138999877527
+CPU Time: 0.005274397000000002
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0802.cnf
+Wall Time: 0.0068664660000195
+CPU Time: 0.006878394999999999
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0803.cnf
+Wall Time: 0.039955326999916
+CPU Time: 0.039925207
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0804.cnf
+Wall Time: 0.00927201700005753
+CPU Time: 0.009252301000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0805.cnf
+Wall Time: 0.013012798999852748
+CPU Time: 0.013009874
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0806.cnf
+Wall Time: 0.018405943000061598
+CPU Time: 0.018402542
+Peak Memory: 242.826171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0807.cnf
+Wall Time: 0.007232641999962652
+CPU Time: 0.007233097999999999
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0808.cnf
+Wall Time: 0.012977684999896155
+CPU Time: 0.0129683
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0809.cnf
+Wall Time: 0.011025142000107735
+CPU Time: 0.011007465000000001
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-081.cnf
+Wall Time: 0.007299393000039345
+CPU Time: 0.00728997
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0810.cnf
+Wall Time: 0.06521070600001622
+CPU Time: 0.065187606
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0811.cnf
+Wall Time: 0.011796131999972204
+CPU Time: 0.011796563
+Peak Memory: 580.404296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0812.cnf
+Wall Time: 0.05132201299988992
+CPU Time: 0.051289992
+Peak Memory: 302.427734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0813.cnf
+Wall Time: 0.06394411000019318
+CPU Time: 0.063919052
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0814.cnf
+Wall Time: 0.014541380000082427
+CPU Time: 0.014530005000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0815.cnf
+Wall Time: 0.006470450000051642
+CPU Time: 0.006464571999999998
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0816.cnf
+Wall Time: 0.010317727000028754
+CPU Time: 0.010309722
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0817.cnf
+Wall Time: 0.01610488100004659
+CPU Time: 0.016084544
+Peak Memory: 441.333984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0818.cnf
+Wall Time: 0.05998344899990116
+CPU Time: 0.059961924
+Peak Memory: 342.162109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0819.cnf
+Wall Time: 0.004902470999923025
+CPU Time: 0.004902478
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-082.cnf
+Wall Time: 0.006224083000006431
+CPU Time: 0.006208586
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0820.cnf
+Wall Time: 0.005282157000010557
+CPU Time: 0.005282166
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0821.cnf
+Wall Time: 0.03404030399997282
+CPU Time: 0.034031091
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0822.cnf
+Wall Time: 0.009464648999937708
+CPU Time: 0.009468016999999999
+Peak Memory: 440.912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0823.cnf
+Wall Time: 0.01813016399978551
+CPU Time: 0.018121839
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0824.cnf
+Wall Time: 0.0272316939999655
+CPU Time: 0.027224847000000003
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0825.cnf
+Wall Time: 0.01256580499989468
+CPU Time: 0.012555068
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0826.cnf
+Wall Time: 0.027465415000051507
+CPU Time: 0.027422369000000002
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0827.cnf
+Wall Time: 0.02888500899985047
+CPU Time: 0.028869571999999996
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0828.cnf
+Wall Time: 0.006572264999931576
+CPU Time: 0.006573824999999998
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0829.cnf
+Wall Time: 0.007024345999980142
+CPU Time: 0.007024018999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-083.cnf
+Wall Time: 0.03444930000000568
+CPU Time: 0.034429174
+Peak Memory: 362.029296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0830.cnf
+Wall Time: 0.005802275999940321
+CPU Time: 0.0058022069999999985
+Peak Memory: 281.83984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0831.cnf
+Wall Time: 0.009677598000052967
+CPU Time: 0.009671609000000001
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0832.cnf
+Wall Time: 0.0054674200000590645
+CPU Time: 0.005466555
+Peak Memory: 262.0380859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0833.cnf
+Wall Time: 0.007185549000041647
+CPU Time: 0.007185379000000002
+Peak Memory: 341.9287109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0834.cnf
+Wall Time: 0.0076641390000986576
+CPU Time: 0.007664186
+Peak Memory: 381.6630859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0835.cnf
+Wall Time: 0.01047712199988382
+CPU Time: 0.010464311
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0836.cnf
+Wall Time: 0.008507441999881848
+CPU Time: 0.008508292999999998
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0837.cnf
+Wall Time: 0.022597563000090304
+CPU Time: 0.022579877000000005
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0838.cnf
+Wall Time: 0.004599485999960962
+CPU Time: 0.004599404
+Peak Memory: 202.4365234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0839.cnf
+Wall Time: 0.04038614800015239
+CPU Time: 0.040353814999999994
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-084.cnf
+Wall Time: 0.012616924999974799
+CPU Time: 0.012617143
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0840.cnf
+Wall Time: 0.010787439000068844
+CPU Time: 0.010788328
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0841.cnf
+Wall Time: 0.007887425000035364
+CPU Time: 0.007887399
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0842.cnf
+Wall Time: 0.030728659000033076
+CPU Time: 0.030721350999999994
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0843.cnf
+Wall Time: 0.059750158000042575
+CPU Time: 0.059700906
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0844.cnf
+Wall Time: 0.041919660000075964
+CPU Time: 0.041887373000000006
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0845.cnf
+Wall Time: 0.006550336000145762
+CPU Time: 0.006529782000000001
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0846.cnf
+Wall Time: 0.009323209999820392
+CPU Time: 0.009309255999999998
+Peak Memory: 440.912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0847.cnf
+Wall Time: 0.011804297000026054
+CPU Time: 0.011778051000000001
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0848.cnf
+Wall Time: 0.008784490999914851
+CPU Time: 0.008784162000000002
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0849.cnf
+Wall Time: 0.01619436900000437
+CPU Time: 0.016181634
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-085.cnf
+Wall Time: 0.005781481999974858
+CPU Time: 0.005781217999999998
+Peak Memory: 261.97265625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0850.cnf
+Wall Time: 0.005778913999847646
+CPU Time: 0.0057642840000000015
+Peak Memory: 182.92578125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0851.cnf
+Wall Time: 0.0034482480000406213
+CPU Time: 0.0034474219999999986
+Peak Memory: 142.89453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0852.cnf
+Wall Time: 0.006844048999937513
+CPU Time: 0.006829796000000001
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0853.cnf
+Wall Time: 0.0038407520000873774
+CPU Time: 0.003840505000000001
+Peak Memory: 182.50390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0854.cnf
+Wall Time: 0.05221226300000126
+CPU Time: 0.052195434
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0855.cnf
+Wall Time: 0.12732535100008135
+CPU Time: 0.12732327000000002
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0856.cnf
+Wall Time: 0.026690408999911597
+CPU Time: 0.026691281999999997
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0857.cnf
+Wall Time: 0.02287294899997505
+CPU Time: 0.022873427
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0858.cnf
+Wall Time: 0.016177907999917807
+CPU Time: 0.016174562
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0859.cnf
+Wall Time: 0.04172573100004229
+CPU Time: 0.041715764
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-086.cnf
+Wall Time: 0.01893767900014609
+CPU Time: 0.018937981
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0860.cnf
+Wall Time: 0.034495512999910716
+CPU Time: 0.034440038000000006
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0861.cnf
+Wall Time: 0.00787046300001748
+CPU Time: 0.007870418999999998
+Peak Memory: 322.0615234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0862.cnf
+Wall Time: 0.017699629999924582
+CPU Time: 0.017701
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0863.cnf
+Wall Time: 0.005048708000003899
+CPU Time: 0.005048307999999998
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0864.cnf
+Wall Time: 0.016489664999880915
+CPU Time: 0.016456492
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0865.cnf
+Wall Time: 0.042836228999931336
+CPU Time: 0.042826651
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0866.cnf
+Wall Time: 0.005400281999982326
+CPU Time: 0.005391185
+Peak Memory: 261.97265625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0867.cnf
+Wall Time: 0.019343875999993543
+CPU Time: 0.019330192999999996
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0868.cnf
+Wall Time: 0.01615720500012685
+CPU Time: 0.016142572
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0869.cnf
+Wall Time: 0.023728559000119276
+CPU Time: 0.023714390999999998
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-087.cnf
+Wall Time: 0.025836623000031977
+CPU Time: 0.025800658999999997
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0870.cnf
+Wall Time: 0.012409024000135105
+CPU Time: 0.012409050999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0871.cnf
+Wall Time: 0.011092517999941265
+CPU Time: 0.01109329
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0872.cnf
+Wall Time: 0.007237695999947391
+CPU Time: 0.007238049
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0873.cnf
+Wall Time: 0.004852289999917048
+CPU Time: 0.004852056000000002
+Peak Memory: 202.79296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0874.cnf
+Wall Time: 0.020886173000008057
+CPU Time: 0.020874453
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0875.cnf
+Wall Time: 0.022754876999897533
+CPU Time: 0.022741777999999997
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0876.cnf
+Wall Time: 0.004670153000006394
+CPU Time: 0.004670680999999998
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0877.cnf
+Wall Time: 0.012435851999953229
+CPU Time: 0.012422260000000001
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0878.cnf
+Wall Time: 0.020720632999882582
+CPU Time: 0.020690301999999997
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0879.cnf
+Wall Time: 0.004055006000044159
+CPU Time: 0.004054579999999999
+Peak Memory: 143.31640625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-088.cnf
+Wall Time: 0.012025062000020625
+CPU Time: 0.012015086
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0880.cnf
+Wall Time: 0.005767192999883264
+CPU Time: 0.005767402999999999
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0881.cnf
+Wall Time: 0.007699562999960108
+CPU Time: 0.007699539
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0882.cnf
+Wall Time: 0.043306898999844634
+CPU Time: 0.04328915
+Peak Memory: 262.693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0883.cnf
+Wall Time: 0.008690427000146883
+CPU Time: 0.008691603000000001
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0884.cnf
+Wall Time: 0.003733078999857753
+CPU Time: 0.0037328269999999993
+Peak Memory: 182.50390625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0885.cnf
+Wall Time: 0.011734461000060037
+CPU Time: 0.011734871999999999
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0886.cnf
+Wall Time: 0.009358375999909185
+CPU Time: 0.009358736
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0887.cnf
+Wall Time: 0.011510530999885304
+CPU Time: 0.011511138
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0888.cnf
+Wall Time: 0.007593277999831116
+CPU Time: 0.007594043
+Peak Memory: 361.3740234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0889.cnf
+Wall Time: 0.009317784999893775
+CPU Time: 0.009312984999999998
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-089.cnf
+Wall Time: 0.008751828999947975
+CPU Time: 0.008752307999999999
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0890.cnf
+Wall Time: 0.06255476000001181
+CPU Time: 0.062522932
+Peak Memory: 302.427734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0891.cnf
+Wall Time: 0.006123245000026145
+CPU Time: 0.006123799000000001
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0892.cnf
+Wall Time: 0.09203083699981107
+CPU Time: 0.09201405600000001
+Peak Memory: 342.162109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0893.cnf
+Wall Time: 0.013016553999932512
+CPU Time: 0.013017120999999998
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0894.cnf
+Wall Time: 0.01518565700007457
+CPU Time: 0.015167497000000002
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0895.cnf
+Wall Time: 0.0053542519999609794
+CPU Time: 0.0053541660000000005
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0896.cnf
+Wall Time: 0.029145397000093
+CPU Time: 0.029142667000000004
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0897.cnf
+Wall Time: 0.03459610100003374
+CPU Time: 0.034587877
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0898.cnf
+Wall Time: 0.002740549000009196
+CPU Time: 0.002733424
+Peak Memory: 123.51171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0899.cnf
+Wall Time: 0.012178216999927827
+CPU Time: 0.012178742999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-09.cnf
+Wall Time: 0.007028106000007028
+CPU Time: 0.007028788999999999
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-090.cnf
+Wall Time: 0.012373717999935252
+CPU Time: 0.012365435
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0900.cnf
+Wall Time: 0.003813191000062943
+CPU Time: 0.0038048429999999987
+Peak Memory: 162.7646484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0901.cnf
+Wall Time: 0.007095541999888155
+CPU Time: 0.007095917
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0902.cnf
+Wall Time: 0.013926877000130844
+CPU Time: 0.013921714000000002
+Peak Memory: 202.8583984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0903.cnf
+Wall Time: 0.006467552000003707
+CPU Time: 0.0064671389999999985
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0904.cnf
+Wall Time: 0.04794024099987837
+CPU Time: 0.047931133
+Peak Memory: 560.701171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0905.cnf
+Wall Time: 0.09148620199994184
+CPU Time: 0.091472064
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0906.cnf
+Wall Time: 0.03465424199998779
+CPU Time: 0.034631712
+Peak Memory: 362.029296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0907.cnf
+Wall Time: 0.012245551999967574
+CPU Time: 0.01222776
+Peak Memory: 500.935546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0908.cnf
+Wall Time: 0.010600309999972524
+CPU Time: 0.010600668
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0909.cnf
+Wall Time: 0.008678034000013213
+CPU Time: 0.008660165
+Peak Memory: 381.732421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-091.cnf
+Wall Time: 0.007219303000056243
+CPU Time: 0.007219129000000001
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0910.cnf
+Wall Time: 0.023259309999957622
+CPU Time: 0.023249961000000003
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0911.cnf
+Wall Time: 0.0065882850001344195
+CPU Time: 0.0065892220000000005
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0912.cnf
+Wall Time: 0.009151956999858157
+CPU Time: 0.009153524
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0913.cnf
+Wall Time: 0.009761578000052396
+CPU Time: 0.009762061
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0914.cnf
+Wall Time: 0.035042651999901864
+CPU Time: 0.035014936
+Peak Memory: 421.466796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0915.cnf
+Wall Time: 0.005334429999948043
+CPU Time: 0.0053298370000000005
+Peak Memory: 262.107421875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0916.cnf
+Wall Time: 0.010556659000030777
+CPU Time: 0.010557520999999999
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0917.cnf
+Wall Time: 0.015409289000217541
+CPU Time: 0.01536841
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0918.cnf
+Wall Time: 0.00742277299991656
+CPU Time: 0.007423353999999998
+Peak Memory: 341.5068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0919.cnf
+Wall Time: 0.004564871000184212
+CPU Time: 0.004564731999999998
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-092.cnf
+Wall Time: 0.006471503999819106
+CPU Time: 0.006472113
+Peak Memory: 301.70703125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0920.cnf
+Wall Time: 0.026934083000014652
+CPU Time: 0.026910999000000005
+Peak Memory: 182.9912109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0921.cnf
+Wall Time: 0.005171427000050244
+CPU Time: 0.005170613000000001
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0922.cnf
+Wall Time: 0.0067533179999372805
+CPU Time: 0.006740607999999999
+Peak Memory: 321.6396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0923.cnf
+Wall Time: 0.015695961999881547
+CPU Time: 0.015697066000000003
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0924.cnf
+Wall Time: 0.016551712999898882
+CPU Time: 0.016550463
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0925.cnf
+Wall Time: 0.00857127499989474
+CPU Time: 0.008558061000000002
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0926.cnf
+Wall Time: 0.005950504999873374
+CPU Time: 0.005950371000000001
+Peak Memory: 281.9052734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0927.cnf
+Wall Time: 0.03171955899983914
+CPU Time: 0.031692299
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0928.cnf
+Wall Time: 0.038434739999956946
+CPU Time: 0.038436127
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0929.cnf
+Wall Time: 0.028346462000172323
+CPU Time: 0.028330098999999997
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-093.cnf
+Wall Time: 0.01536586600013834
+CPU Time: 0.015360559
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0930.cnf
+Wall Time: 0.01977458100009244
+CPU Time: 0.019774987999999997
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0931.cnf
+Wall Time: 0.0046751620000122784
+CPU Time: 0.004674942
+Peak Memory: 222.66015625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0932.cnf
+Wall Time: 0.008205406999877596
+CPU Time: 0.008206814
+Peak Memory: 381.310546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0933.cnf
+Wall Time: 0.009137871000120867
+CPU Time: 0.009138536999999999
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0934.cnf
+Wall Time: 0.005125620000171693
+CPU Time: 0.005125523999999999
+Peak Memory: 242.1708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0935.cnf
+Wall Time: 0.014862199999924997
+CPU Time: 0.014863059999999999
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0936.cnf
+Wall Time: 0.006589222000002337
+CPU Time: 0.006582263999999999
+Peak Memory: 341.44140625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0937.cnf
+Wall Time: 0.007488798999929713
+CPU Time: 0.007484974
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0938.cnf
+Wall Time: 0.007129968999834091
+CPU Time: 0.0071236730000000005
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0939.cnf
+Wall Time: 0.010954767000157517
+CPU Time: 0.010955597999999999
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-094.cnf
+Wall Time: 0.004511400999945181
+CPU Time: 0.004511308999999998
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0940.cnf
+Wall Time: 0.008523068000158673
+CPU Time: 0.008523049999999999
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0941.cnf
+Wall Time: 0.01922922399990057
+CPU Time: 0.019203587
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0942.cnf
+Wall Time: 0.03663267100000667
+CPU Time: 0.03659898
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0943.cnf
+Wall Time: 0.010545789000161676
+CPU Time: 0.010505566999999999
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0944.cnf
+Wall Time: 0.003107279000005292
+CPU Time: 0.0031075200000000008
+Peak Memory: 142.89453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0945.cnf
+Wall Time: 0.010675008999896818
+CPU Time: 0.010675573999999998
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0946.cnf
+Wall Time: 0.02821187899985489
+CPU Time: 0.028208454
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0947.cnf
+Wall Time: 0.020860312999957387
+CPU Time: 0.020851823
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0948.cnf
+Wall Time: 0.034420381000018097
+CPU Time: 0.034384338
+Peak Memory: 262.693359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0949.cnf
+Wall Time: 0.006444922999889968
+CPU Time: 0.006444858999999999
+Peak Memory: 321.708984375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-095.cnf
+Wall Time: 0.03863559299998087
+CPU Time: 0.038611929
+Peak Memory: 321.99609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0950.cnf
+Wall Time: 0.050683852000020124
+CPU Time: 0.05066101399999999
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0951.cnf
+Wall Time: 0.015938313000106064
+CPU Time: 0.015932180999999997
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0952.cnf
+Wall Time: 0.023316904000012073
+CPU Time: 0.0233109
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0953.cnf
+Wall Time: 0.009377599999879749
+CPU Time: 0.009378168000000001
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0954.cnf
+Wall Time: 0.004777353999998013
+CPU Time: 0.004777090000000001
+Peak Memory: 222.23828125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0955.cnf
+Wall Time: 0.00740402700012055
+CPU Time: 0.0073969590000000016
+Peak Memory: 341.86328125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0956.cnf
+Wall Time: 0.004195433999939269
+CPU Time: 0.0041948179999999995
+Peak Memory: 143.31640625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0957.cnf
+Wall Time: 0.02257434199987074
+CPU Time: 0.022542651999999996
+Peak Memory: 222.794921875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0958.cnf
+Wall Time: 0.01300332199980403
+CPU Time: 0.012999696000000002
+Peak Memory: 282.26171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0959.cnf
+Wall Time: 0.007200487999853067
+CPU Time: 0.007200527
+Peak Memory: 361.443359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-096.cnf
+Wall Time: 0.008695321000004697
+CPU Time: 0.008695775000000001
+Peak Memory: 401.5302734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0960.cnf
+Wall Time: 0.06705659299996114
+CPU Time: 0.06702253799999999
+Peak Memory: 282.3271484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0961.cnf
+Wall Time: 0.0051148110001122404
+CPU Time: 0.005114978000000001
+Peak Memory: 242.10546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0962.cnf
+Wall Time: 0.015218296000057308
+CPU Time: 0.015210512
+Peak Memory: 401.599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0963.cnf
+Wall Time: 0.010565959999894403
+CPU Time: 0.010566402999999999
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0964.cnf
+Wall Time: 0.007074441999975534
+CPU Time: 0.0070668580000000005
+Peak Memory: 302.1943359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0965.cnf
+Wall Time: 0.009906982000075004
+CPU Time: 0.009907569
+Peak Memory: 461.201171875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0966.cnf
+Wall Time: 0.0048125509999863425
+CPU Time: 0.004812304000000002
+Peak Memory: 202.927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0967.cnf
+Wall Time: 0.006522121999978481
+CPU Time: 0.006522193000000001
+Peak Memory: 301.841796875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0968.cnf
+Wall Time: 0.010199220999993486
+CPU Time: 0.010199169999999999
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0969.cnf
+Wall Time: 0.014500709999992978
+CPU Time: 0.014498649000000002
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-097.cnf
+Wall Time: 0.015836656999908882
+CPU Time: 0.015837282
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0970.cnf
+Wall Time: 0.007084105999865642
+CPU Time: 0.007084269999999998
+Peak Memory: 341.44140625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0971.cnf
+Wall Time: 0.04673882199995205
+CPU Time: 0.046731917
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0972.cnf
+Wall Time: 0.09532060099991213
+CPU Time: 0.09532162
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0973.cnf
+Wall Time: 0.004158156000130475
+CPU Time: 0.004158012000000001
+Peak Memory: 202.37109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0974.cnf
+Wall Time: 0.006542775999832884
+CPU Time: 0.006542697
+Peak Memory: 242.662109375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0975.cnf
+Wall Time: 0.011036536999881719
+CPU Time: 0.011029271
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0976.cnf
+Wall Time: 0.010680783999987398
+CPU Time: 0.010657122
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0977.cnf
+Wall Time: 0.01037999100003617
+CPU Time: 0.010380245
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0978.cnf
+Wall Time: 0.011050212999862197
+CPU Time: 0.011033788000000001
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0979.cnf
+Wall Time: 0.010115599999835467
+CPU Time: 0.01010486
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-098.cnf
+Wall Time: 0.008112430999972275
+CPU Time: 0.00810932
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0980.cnf
+Wall Time: 0.005220463999876301
+CPU Time: 0.005220613000000001
+Peak Memory: 242.52734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0981.cnf
+Wall Time: 0.018986409000035565
+CPU Time: 0.018950887000000003
+Peak Memory: 262.529296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0982.cnf
+Wall Time: 0.008359088999895903
+CPU Time: 0.008360693
+Peak Memory: 222.7255859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0983.cnf
+Wall Time: 0.005648485000165238
+CPU Time: 0.005620421999999998
+Peak Memory: 242.240234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0984.cnf
+Wall Time: 0.006025598999940485
+CPU Time: 0.006025149999999998
+Peak Memory: 262.39453125 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0985.cnf
+Wall Time: 0.024775752999858014
+CPU Time: 0.024752952999999998
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0986.cnf
+Wall Time: 0.012370008000061716
+CPU Time: 0.012357512
+Peak Memory: 481.068359375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0987.cnf
+Wall Time: 0.034592869999869436
+CPU Time: 0.034591404
+Peak Memory: 242.5927734375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0988.cnf
+Wall Time: 0.01868272000001525
+CPU Time: 0.018668822999999998
+Peak Memory: 302.12890625 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0989.cnf
+Wall Time: 0.015566062999823771
+CPU Time: 0.015554517
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-099.cnf
+Wall Time: 0.009634244000153558
+CPU Time: 0.009626231
+Peak Memory: 341.998046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0990.cnf
+Wall Time: 0.004777440999987448
+CPU Time: 0.004777327
+Peak Memory: 222.373046875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0991.cnf
+Wall Time: 0.03373884999996335
+CPU Time: 0.033705747
+Peak Memory: 361.865234375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0992.cnf
+Wall Time: 0.009379838000086238
+CPU Time: 0.009380404999999998
+Peak Memory: 302.263671875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0993.cnf
+Wall Time: 0.007379307000064728
+CPU Time: 0.0073799500000000014
+Peak Memory: 262.4599609375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0994.cnf
+Wall Time: 0.05169854100017801
+CPU Time: 0.051674583999999996
+Peak Memory: 362.029296875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0995.cnf
+Wall Time: 0.011750971000083155
+CPU Time: 0.011751691999999998
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0996.cnf
+Wall Time: 0.026735987999927602
+CPU Time: 0.026718744000000003
+Peak Memory: 282.396484375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0997.cnf
+Wall Time: 0.03222416699986752
+CPU Time: 0.032187253
+Peak Memory: 322.130859375 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0998.cnf
+Wall Time: 0.008471674000020357
+CPU Time: 0.008472140000000001
+Peak Memory: 183.060546875 KB
+Result: SAT
+# CNF: /mnt/c/Users/Pupil/ECE51216/dpll_sat_solver/benchmarks/SAT/satlib_50_218/uf50-0999.cnf
+Wall Time: 0.022212317999901643
+CPU Time: 0.022198776999999996
+Peak Memory: 282.26171875 KB
+Result: SAT

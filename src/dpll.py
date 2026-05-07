@@ -7,18 +7,24 @@
 #  
 import chaff 
 import dlis
+import archived
 
-#Will add more later, for now just need to track metrics.
-#import grabMetrics
 
+#Toggle Heuristics
+watched_heuristic = False
+dlis_heuristic = True
 
 def dpll(clauses, assignment, watched_list=None):
-    if watched_list is None:
+    #Check for Watched Heuristic Implementation
+    if watched_heuristic and watched_list is None:
         watched_list = chaff.precompute_watched_literals(clauses)
 
-    #First we run BCP to propagate the consequences of our current assignment. 
-    new_assignment = chaff.watched_bcp(clauses, assignment, watched_list)
-
+    #Toggle Watched Heuristic Implementation
+    if watched_heuristic:
+        #First we run BCP to propagate the consequences of our current assignment. 
+        new_assignment = chaff.watched_bcp(clauses, assignment, watched_list)
+    else: 
+        new_assignment = archived.bcp(clauses, assignment)
     if new_assignment is None:
         #If conflict, backtrack  
         return False
@@ -27,8 +33,15 @@ def dpll(clauses, assignment, watched_list=None):
     if chaff.all_clauses_satisfied(clauses, new_assignment):
         return True
 
-    #IF there are still unsatisfied clauses we need to call DLIS to pick a literal. 
-    literal = dlis.dlis(clauses, new_assignment)
+
+    #Toggle DLIS Heuristic Implementation
+    if dlis_heuristic:
+        #IF there are still unsatisfied clauses we need to call DLIS to pick a literal. 
+        literal = dlis.dlis(clauses, new_assignment)
+    else:
+        literal = archived.first_unassigned(clauses, new_assignment)
+
+
 
     if literal is None:
         #If there are no unassigned literals left, but not all clauses are satisfied, we have a conflict. Backtrack. 
@@ -37,12 +50,21 @@ def dpll(clauses, assignment, watched_list=None):
     #DFS Logic: branch on the chosen literal, backtrack if both fail.
     var = abs(literal)
     new_assignment[var] = (literal > 0)   # try the polarity DLIS recommended
-    if dpll(clauses, new_assignment, [w[:] for w in watched_list]):
+    if watched_list is not None:
+        next_watched = [w[:] for w in watched_list]
+    else:
+        next_watched = None
+    if dpll(clauses, new_assignment, next_watched):
         return True
 
     new_assignment[var] = (literal <= 0)  # try the opposite polarity
-    if dpll(clauses, new_assignment, [w[:] for w in watched_list]):
+    if watched_list is not None:
+        next_watched = [w[:] for w in watched_list]
+    else:
+        next_watched = None
+    if dpll(clauses, new_assignment, next_watched):
         return True
+   
 
     return False
 
