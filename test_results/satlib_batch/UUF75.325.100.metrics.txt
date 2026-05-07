@@ -1,0 +1,500 @@
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-01.cnf
+Wall Time: 0.2136013749986887
+CPU Time: 0.21228
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-010.cnf
+Wall Time: 0.3158924159943126
+CPU Time: 0.315709
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-0100.cnf
+Wall Time: 0.22815912499208935
+CPU Time: 0.227983
+Peak Memory: 583.9765625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-011.cnf
+Wall Time: 0.1654799169918988
+CPU Time: 0.165277
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-012.cnf
+Wall Time: 0.30444787500891834
+CPU Time: 0.304234
+Peak Memory: 583.4296875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-013.cnf
+Wall Time: 0.20373929099878296
+CPU Time: 0.20360799999999998
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-014.cnf
+Wall Time: 0.3882171660079621
+CPU Time: 0.387887
+Peak Memory: 527.8203125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-015.cnf
+Wall Time: 0.18582591699669138
+CPU Time: 0.185705
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-016.cnf
+Wall Time: 0.23536704099387862
+CPU Time: 0.235259
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-017.cnf
+Wall Time: 0.2797507919894997
+CPU Time: 0.279574
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-018.cnf
+Wall Time: 0.18843412498245016
+CPU Time: 0.18826500000000002
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-019.cnf
+Wall Time: 0.18529616700834595
+CPU Time: 0.185187
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-02.cnf
+Wall Time: 0.24855754198506474
+CPU Time: 0.24835000000000002
+Peak Memory: 583.9765625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-020.cnf
+Wall Time: 0.4190494590147864
+CPU Time: 0.418624
+Peak Memory: 583.4296875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-021.cnf
+Wall Time: 0.16553716600174084
+CPU Time: 0.165392
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-022.cnf
+Wall Time: 0.3445263340254314
+CPU Time: 0.344364
+Peak Memory: 583.4296875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-023.cnf
+Wall Time: 0.39138408299186267
+CPU Time: 0.391073
+Peak Memory: 583.4296875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-024.cnf
+Wall Time: 0.384563583007548
+CPU Time: 0.384276
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-025.cnf
+Wall Time: 0.33277662500040606
+CPU Time: 0.332546
+Peak Memory: 527.8203125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-026.cnf
+Wall Time: 0.1731584999943152
+CPU Time: 0.173004
+Peak Memory: 500.5625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-027.cnf
+Wall Time: 0.24131474999012426
+CPU Time: 0.24112
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-028.cnf
+Wall Time: 0.1482359160145279
+CPU Time: 0.148105
+Peak Memory: 416.6015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-029.cnf
+Wall Time: 0.38700108401826583
+CPU Time: 0.386891
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-03.cnf
+Wall Time: 0.3013634170056321
+CPU Time: 0.301259
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-030.cnf
+Wall Time: 0.15296441697864793
+CPU Time: 0.152841
+Peak Memory: 416.6015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-031.cnf
+Wall Time: 0.28201929200440645
+CPU Time: 0.28179
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-032.cnf
+Wall Time: 0.3235573749989271
+CPU Time: 0.323327
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-033.cnf
+Wall Time: 0.32384583400562406
+CPU Time: 0.323706
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-034.cnf
+Wall Time: 0.382958417001646
+CPU Time: 0.382786
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-035.cnf
+Wall Time: 0.3425074999977369
+CPU Time: 0.34230099999999997
+Peak Memory: 500.5625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-036.cnf
+Wall Time: 0.24531858297996223
+CPU Time: 0.245178
+Peak Memory: 417.1484375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-037.cnf
+Wall Time: 0.16161245800321922
+CPU Time: 0.16143000000000002
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-038.cnf
+Wall Time: 0.29693495799438097
+CPU Time: 0.296757
+Peak Memory: 500.5625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-039.cnf
+Wall Time: 0.3757224589935504
+CPU Time: 0.375459
+Peak Memory: 527.8203125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-04.cnf
+Wall Time: 0.3298438750207424
+CPU Time: 0.329579
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-040.cnf
+Wall Time: 0.20234324998455122
+CPU Time: 0.202206
+Peak Memory: 444.953125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-041.cnf
+Wall Time: 0.5737804580130614
+CPU Time: 0.573468
+Peak Memory: 695.1953125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-042.cnf
+Wall Time: 0.5793246249959338
+CPU Time: 0.5787490000000001
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-043.cnf
+Wall Time: 0.38653379201423377
+CPU Time: 0.38647
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-044.cnf
+Wall Time: 0.14975987499929033
+CPU Time: 0.14962199999999998
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-045.cnf
+Wall Time: 0.1610427499981597
+CPU Time: 0.160907
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-046.cnf
+Wall Time: 0.19372791700880043
+CPU Time: 0.193578
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-047.cnf
+Wall Time: 0.179848707979545
+CPU Time: 0.179658
+Peak Memory: 500.5625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-048.cnf
+Wall Time: 0.45014487497974187
+CPU Time: 0.449845
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-049.cnf
+Wall Time: 0.18027608300326392
+CPU Time: 0.180121
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-05.cnf
+Wall Time: 0.4156991660129279
+CPU Time: 0.415395
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-050.cnf
+Wall Time: 0.5316200829984155
+CPU Time: 0.5312370000000001
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-051.cnf
+Wall Time: 0.15056666597956792
+CPU Time: 0.15043399999999998
+Peak Memory: 416.6015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-052.cnf
+Wall Time: 0.11505183298140764
+CPU Time: 0.11499600000000001
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-053.cnf
+Wall Time: 0.11313729101675563
+CPU Time: 0.113122
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-054.cnf
+Wall Time: 0.2683575830014888
+CPU Time: 0.26815100000000003
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-055.cnf
+Wall Time: 0.3134417090041097
+CPU Time: 0.313172
+Peak Memory: 556.171875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-056.cnf
+Wall Time: 0.35698370801401325
+CPU Time: 0.356725
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-057.cnf
+Wall Time: 0.7405228340066969
+CPU Time: 0.74018
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-058.cnf
+Wall Time: 0.31425091600976884
+CPU Time: 0.314064
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-059.cnf
+Wall Time: 0.3030099580064416
+CPU Time: 0.301461
+Peak Memory: 527.8203125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-06.cnf
+Wall Time: 0.150206791004166
+CPU Time: 0.148482
+Peak Memory: 416.6015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-060.cnf
+Wall Time: 0.3892667499894742
+CPU Time: 0.38819200000000004
+Peak Memory: 500.5625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-061.cnf
+Wall Time: 0.304924124997342
+CPU Time: 0.304514
+Peak Memory: 528.3671875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-062.cnf
+Wall Time: 0.27895050001097843
+CPU Time: 0.278035
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-063.cnf
+Wall Time: 0.09641020899289288
+CPU Time: 0.096368
+Peak Memory: 388.796875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-064.cnf
+Wall Time: 0.2056054170243442
+CPU Time: 0.205208
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-065.cnf
+Wall Time: 0.17216950000147335
+CPU Time: 0.17163899999999999
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-066.cnf
+Wall Time: 0.18970375001663342
+CPU Time: 0.189301
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-067.cnf
+Wall Time: 0.4147202500025742
+CPU Time: 0.414046
+Peak Memory: 500.5625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-068.cnf
+Wall Time: 0.21036649998859502
+CPU Time: 0.20991200000000002
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-069.cnf
+Wall Time: 0.3436344579968136
+CPU Time: 0.342096
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-07.cnf
+Wall Time: 0.23743879099492915
+CPU Time: 0.23736
+Peak Memory: 417.1484375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-070.cnf
+Wall Time: 0.26756629202282056
+CPU Time: 0.26625
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-071.cnf
+Wall Time: 0.27183083299314603
+CPU Time: 0.27072
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-072.cnf
+Wall Time: 0.13157591698109172
+CPU Time: 0.129267
+Peak Memory: 417.1484375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-073.cnf
+Wall Time: 0.40867916599381715
+CPU Time: 0.404759
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-074.cnf
+Wall Time: 0.1852335419971496
+CPU Time: 0.184443
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-075.cnf
+Wall Time: 0.18143962498288602
+CPU Time: 0.179641
+Peak Memory: 527.8203125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-076.cnf
+Wall Time: 0.19061799999326468
+CPU Time: 0.18944699999999998
+Peak Memory: 416.6015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-077.cnf
+Wall Time: 0.32998166600009426
+CPU Time: 0.329788
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-078.cnf
+Wall Time: 0.15940341699752025
+CPU Time: 0.15927
+Peak Memory: 389.34375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-079.cnf
+Wall Time: 0.2731271250231657
+CPU Time: 0.271764
+Peak Memory: 528.3671875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-08.cnf
+Wall Time: 0.21384520901483484
+CPU Time: 0.21369900000000003
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-080.cnf
+Wall Time: 0.20657187499455176
+CPU Time: 0.206389
+Peak Memory: 416.6015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-081.cnf
+Wall Time: 0.33920091699110344
+CPU Time: 0.339105
+Peak Memory: 444.953125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-082.cnf
+Wall Time: 0.23074199998518452
+CPU Time: 0.23055599999999998
+Peak Memory: 528.3671875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-083.cnf
+Wall Time: 0.2441217910090927
+CPU Time: 0.24391300000000002
+Peak Memory: 583.4296875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-084.cnf
+Wall Time: 0.21995195897761732
+CPU Time: 0.219729
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-085.cnf
+Wall Time: 0.36057570902630687
+CPU Time: 0.357283
+Peak Memory: 527.8203125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-086.cnf
+Wall Time: 0.38818470799014904
+CPU Time: 0.38802099999999995
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-087.cnf
+Wall Time: 0.31436737498734146
+CPU Time: 0.31417399999999995
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-088.cnf
+Wall Time: 0.2542365840054117
+CPU Time: 0.25415299999999996
+Peak Memory: 611.234375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-089.cnf
+Wall Time: 0.18697283399524167
+CPU Time: 0.18683899999999998
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-09.cnf
+Wall Time: 0.15325420800945722
+CPU Time: 0.153154
+Peak Memory: 667.390625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-090.cnf
+Wall Time: 0.134109750011703
+CPU Time: 0.133881
+Peak Memory: 472.2109375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-091.cnf
+Wall Time: 0.19117424997966737
+CPU Time: 0.19103099999999998
+Peak Memory: 472.7578125 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-092.cnf
+Wall Time: 0.320373374997871
+CPU Time: 0.320135
+Peak Memory: 555.625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-093.cnf
+Wall Time: 0.09242670799721964
+CPU Time: 0.092123
+Peak Memory: 444.40625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-094.cnf
+Wall Time: 0.46895750000840053
+CPU Time: 0.468642
+Peak Memory: 500.015625 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-095.cnf
+Wall Time: 0.4506583329930436
+CPU Time: 0.450415
+Peak Memory: 611.234375 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-096.cnf
+Wall Time: 0.4435524999862537
+CPU Time: 0.443345
+Peak Memory: 528.3671875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-097.cnf
+Wall Time: 0.50038779102033
+CPU Time: 0.5000829999999999
+Peak Memory: 528.3671875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-098.cnf
+Wall Time: 0.3026485829905141
+CPU Time: 0.302502
+Peak Memory: 528.3671875 KB
+Result: UNSAT
+# CNF: /Users/evanbehrendt/sandbox/purdue/dpll_sat_solver/benchmarks/UNSAT/UUF75.325.100/uuf75-099.cnf
+Wall Time: 0.14594170899363235
+CPU Time: 0.145791
+Peak Memory: 416.6015625 KB
+Result: UNSAT

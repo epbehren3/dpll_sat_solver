@@ -11,14 +11,14 @@ def clauseSat(clause, assignment):
         var = abs(literal)
 
         #Only check variables which have been assigned
-        if var in assignment:
+        #EB: Updated to handle case where variable is unassigned. This is because the assignment dictionary can have None values for unassigned variables.
+        if assignment.get(var) is not None:
             #If the literal was assigned as true, we return sat as True
             if literal > 0:
-                value = assignment[var]
-
+                value = assignment.get(var)
             #If the literal was negative, we return sat as the complement of the literal 
             else:
-                value = not assignment[var] 
+                value = not assignment.get(var) 
 
             #If it's been assigned as true, we want to return that the clause is satisfied
             if value is True:

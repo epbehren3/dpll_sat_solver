@@ -21,18 +21,16 @@ from typing import Any
 
 
 def clause_satisfied(clause, assignment):
-    return any(
-        (literal > 0 and assignment.get(abs(literal)) is True)
-        or (literal < 0 and assignment.get(abs(literal)) is False)
-        for literal in clause
-    )
+    for literal in clause:
+        if (literal > 0 and assignment.get(abs(literal)) is True) or (literal < 0 and assignment.get(abs(literal)) is False):
+            return True
+    return False
+
 def all_clauses_satisfied(clauses, assignment):
     for clause in clauses: 
         if not clause_satisfied(clause, assignment):
             return False
     return True
-
-
 
 def check_falsified(literal, assignment):
     val = assignment.get(abs(literal))
