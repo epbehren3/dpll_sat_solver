@@ -1,74 +1,38 @@
-#DLIS Decision Heuristic Implementation
-#Consists of (2) functions, the first one, clauseSat()) is used to check if a clause has been satisifed or not based on the variable assignments
-#Next, in the dlis() function, we will check unsat clauses and decide on a literal to return based on the literal that appears the most.
+# dlis.py - DLIS Decision Heuristic (Dynamic Largest Individual Sum)
+# ECE 51216 | Spring 2026 | Behrendt & Morshed
+#
+# Selects the branching literal that appears most often across all unsatisfied
+# clauses. Satisfying that literal directly reduces the most pending clauses,
+# shrinking the search space faster than picking arbitrarily.
 
-#Create a function to check if the clause has been satisfied or not based on the variable assignments
+
 def clauseSat(clause, assignment):
-    #To check if the clause is satisfied, we need to check each literal 
+    # True if any literal in the clause evaluates to True under current assignment
     for literal in clause:
-
-        #Take the absolute value of the literal to get the variable, because that's how we'll be able to check if it's been assigned
         var = abs(literal)
-
-        #Only check variables which have been assigned
-        #EB: Updated to handle case where variable is unassigned. This is because the assignment dictionary can have None values for unassigned variables.
         if assignment.get(var) is not None:
-            #If the literal was assigned as true, we return sat as True
-            if literal > 0:
-                value = assignment.get(var)
-            #If the literal was negative, we return sat as the complement of the literal 
-            else:
-                value = not assignment.get(var) 
-
-            #If it's been assigned as true, we want to return that the clause is satisfied
+            value = assignment.get(var) if literal > 0 else not assignment.get(var)
             if value is True:
                 return True
-                          
     return False
-                    
+
 
 def dlis(clauses, assignment):
-    #Define a variable to keep count of each literal
-    counts = {} 
-    highestCount = -1
-    #For each clause in the list of clauses, we want to check if it's satisfied
+    # Count unassigned literal occurrences across all unsatisfied clauses,
+    # then return the literal with the highest count as the branching choice.
+    counts = {}
+
     for clause in clauses:
-        clause_sat = clauseSat(clause, assignment)
+        if clauseSat(clause, assignment):
+            continue  # skip already-satisfied clauses
 
-        if not clause_sat:
-            #Meaning that the clause is not satisfied, so we want to now count the literals 
-            for literal in clause:
-                var = abs(literal)
+        for literal in clause:
+            var = abs(literal)
+            if assignment.get(var) is None:
+                counts[literal] = counts.get(literal, 0) + 1
 
-                # Count literals whose variable is still unassigned (missing or None).
-                if assignment.get(var) is None:
-
-                    if literal in counts:
-                        counts[literal] +=1
-                    else:
-                        counts[literal] = 1
-    
-    #Check to see which literal is actually the best to return, based on which one appeared the most
-    for literal in counts:
-        if counts[literal] > highestCount:
-            highestCount = counts[literal]
-            decidedLiteral = literal
-            
     if not counts:
-        return None
-    
-    return decidedLiteral
+        return None  # all variables assigned
 
-
-
-
-
-#note: used LLM to create test cases to test the DLIS
-#test case
-#def main():
-#    clauses = [[-2,1,3,4,5,1,-7,-7,-7,-7], [-7,-7,2, 3]]
-#    assignment = {1: True}
-#    result = dlis(clauses, assignment)
-#    print(result)
-
-#main()
+    # Return the literal with the highest occurrence count
+    return max(counts, key=counts.__getitem__)

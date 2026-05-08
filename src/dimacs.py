@@ -1,46 +1,37 @@
-#open the file, skip comment lines, parse the problem line
-#problem line will look like p cnf <num_vars> <num_clauses>
-#https://jix.github.io/varisat/manual/0.2.0/formats/dimacs.html
+# dimacs.py - DIMACS CNF file parser
 
-#sample text file:
-#p cnf 3 2 
-#1 -3 8 0 (clause 1, ending w/ a trailing 0)
-#2 3 -1 0 (clause 2, ending w/ a trailing 0)
-#this tells us that the cnf is (x1 + x3') and (x2 + x3 + x1')
+
 def dimacs(path):
     num_var = num_clauses = 0
     clauses = []
-    with open(path) as fo: 
+
+    with open(path) as fo:
         for line in fo:
             line = line.strip()
-            #ignore the comment lines
-            if line.startswith('c') or not line: 
+
+            # Skip comment lines and blank lines
+            if line.startswith('c') or not line:
                 continue
-            #% means end of file and break
+
+            # SATLIB files end with '%' — stop reading
             if '%' in line:
                 break
-            #if it starts with p, yesssssssssss
+
+            # Problem header: "p cnf <num_vars> <num_clauses>"
             if line.startswith('p'):
-                #splitting at the white space between num_var and num_clauses
-                #parts is a list of the integers from the clause line
-                parts = line.split() 
-                num_var = int(parts[2]) 
-                num_clauses = int(parts[3]) 
+                parts = line.split()
+                num_var = int(parts[2])
+                num_clauses = int(parts[3])
                 continue
 
-            #create a list of integers from the clause line, which will be the literals in the clause
+            # Clause line: space-separated literals terminated by 0
             parts = list(map(int, line.split()))
-            #remove the trailing 0 at the end of the clause
-            parts.pop()
+            parts.pop()  # remove trailing 0 delimiter
 
-            #SATLIB files may end with a 0 or %, if there are no literals after removing the trailing 0, we can skip the line to avoid adding an empty clause
+            # Skip empty clauses that arise after stripping the 0
             if not parts:
-                continue 
+                continue
 
             clauses.append(parts)
 
-    #function returns the number of literals in the cnf formula
-    #and the clauses in the function as a list
-    print(num_var, num_clauses)
     return num_var, clauses
-
